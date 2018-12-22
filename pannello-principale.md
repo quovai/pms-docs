@@ -3,7 +3,7 @@
 
 Appena effettuato il collegamento al sistema, vengono presentate alcune informazioni di sintesi che consentono alla struttura di avere un colpo d'occhio sulla situazione delle prenotazioni che richiedono maggiore attenzione.
 
-![](http://localhost:3000/documents/images/dashboard-principale-003.png)
+![](dashboard-principale-003.png)
 
 ### **Ultime prenotazioni**
 
