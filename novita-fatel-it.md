@@ -34,4 +34,33 @@ Mentre è sempre possibile specificare, per riferimento interno, il tipo di paga
 
 ![](images/fatel-007.png)
 
+## 2. Tassa di soggiorno sempre nelle righe documenti
 
+Non sarà più possibile (anche se era già una funzionalità poco usata) avere la tassa di soggiorno riportata nel piede del documento. La tassa di soggiorno sarà sempre una riga del documento.
+
+Es. alcune strutture usavano questa modalità:
+
+- addebito 1    10€
+- addebito 2    20€
+- addebito 2    20€
+**- totale        30€**
+							
+**Imposta di soggiorno FC IVA: 5€**
+
+Ora l'unica modalità possibile sarà:
+
+- addebito 1    							10€
+- addebito 2    							20€
+- Imposta di soggiorno FC IVA: 5€           
+- **Totale con IVA 30€**
+- **Esente IVA      5€**
+						 
+
+Le fatture e ricevute del passato continueranno ad evere la vecchia dicitura e modalità di presentazione.
+
+
+						 
+						 
+						 
+						 
+						 
