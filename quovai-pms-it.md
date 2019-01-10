@@ -2,9 +2,10 @@
 
 # Documentazione Quovai PMS
 
-## Primi passi
+## Primi passi con Quovai PMS
 - [Il pannello principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
+- [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
 
 ## La fatturazione elettronica
 - [Introduzione alla fatturazione elettronica](fatturazione-elettronica-it.md)
