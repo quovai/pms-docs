@@ -1,3 +1,5 @@
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Come spostare una prenotazione
+
 # Come spostare una prenotazione
 
 Per spostare una prenotazione nel tableau (da una camera/un appartamento all'altra/o sempre per lo stesso periodo), devi evidenziare la prenotazione mettendo il mouse sopra la prenotazione (cambia colore e diventa verde scuro).
