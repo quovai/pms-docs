@@ -6,11 +6,9 @@ All'interno della scheda della prenotazione si va nella sezione "Addebiti", si s
 
 ![](images/caparra-001.png)
 
-![](images/caparra-002.png)
-
 e si inserisce una nuova "Deduzione" sotto "Categoria di addebito", scegliendo "Caparra confirmatoria" come tipologia di addebito:
 
-![](images/caparra-003.png)
+![](images/caparra-002.png)
 
 Con "Salva" l'addebito viene registrato.
  
