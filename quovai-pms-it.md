@@ -25,7 +25,7 @@
 
 
 ## Template email 
-- [I modelli per le comunicazioni delle strutture](modelli-per-le-communicazioni-della-struttura-it.md)
+- [I modelli per le comunicazioni della struttura](i-modelli-per-le-communicazioni-della-struttura-it.md)
 - [Variabili disponibili per i template email](variabili-disponibili-per-i-template-email-it.md)
 
 
