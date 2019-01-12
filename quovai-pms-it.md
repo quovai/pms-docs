@@ -20,6 +20,7 @@
 
 ## Reportistica
 - [Come esportare un report in Excel o OpenOffice](come-esportare-un-report-in-Excel-o-OpenOffice-it.md)
+- [Il report corrispettivi](il-report-corrispettivi-it.md)
 
 
 ## La fatturazione elettronica
