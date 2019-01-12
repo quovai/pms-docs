@@ -12,7 +12,7 @@ Di seguito viene presentata la form di "esecuzione" del report corrispettivi con
 All'interno della form, prima di lanciare il report, occorre scegliere:
 
 
-|Parametro|Descrizione|
+|**Parametro**|**Descrizione**|
 |--|--|
 |**Struttura**|La struttura per cui si vuole ottenere il report|
 |**Progressivo**|La serie di documenti che si vuole prendere in considerazione (es. A/B/EXTRA etc...)|
