@@ -15,7 +15,7 @@ Selezionando **Nuovo** è possibile creare un nuovo modello di messaggio...
 
 ![](images/modelli-messaggi-002.png)
 
-All'interno del modello del messaggio (che è possibile specificare in Italiano, Inglese e Tedesco) è possibile usare alcune variabili che vengono completate automaticamente dal sistema. Trovate l'elenco completo delle variabili disponibili cliccando su [questo link](documents/variabili-per-template-email.html).
+All'interno del modello del messaggio (che è possibile specificare in Italiano, Inglese e Tedesco) è possibile usare alcune variabili che vengono completate automaticamente dal sistema. Trovate l'elenco completo delle variabili disponibili cliccando su [questo link](https://quovai.github.io/variabili-disponibili-per-i-template-email-it.html).
 
 Es. nel nostro caso utilizziamo la variabile **## RESERVATION ID ##** che contiene il codice della prenotazione e la variabile **## CUSTOMER FULL ##** che contiene il nome e cognome del cliente che ha prenotato.
 
