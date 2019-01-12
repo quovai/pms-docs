@@ -24,6 +24,11 @@
 - [Il report occupazione - come sto andando quest'anno?](il-report-occupazione-it.md)
 
 
+## Channel manager 
+- [Impostare i limiti di disponibilità](impostare-i-limiti-di-disponibilità-it.md)
+- [Impostare le restrizioni](impostare-le-restrizioni-it.md)
+
+
 ## Fatturazione elettronica
 - [Introduzione alla fatturazione elettronica](fatturazione-elettronica-it.md)
 - [Creare una fattura](creare-una-fattura-it.md)
