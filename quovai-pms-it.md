@@ -23,7 +23,7 @@
 - [Il report corrispettivi](il-report-corrispettivi-it.md)
 
 
-## La fatturazione elettronica
+## Fatturazione elettronica
 - [Introduzione alla fatturazione elettronica](fatturazione-elettronica-it.md)
 - [Creare una fattura](creare-una-fattura-it.md)
 - [La lista delle fatture emesse](la-lista-fatture-emesse-it.md)
