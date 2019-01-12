@@ -35,3 +35,9 @@
 - [La lista delle fatture emesse](la-lista-fatture-emesse-it.md)
 - [Archiviare e registrare le fatture](archivio-fatture-it.md) 
 - [Le novità introdotte nel gestionale con la fatturazione elettronica](novita-fatel-it.md)
+
+
+## GDPR & privacy
+- [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-Quovai-PMS-it.md)
+- [Cos'è un dato personale?](cos'è-un-dato-personale?-it.md)
+
