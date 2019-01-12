@@ -20,7 +20,7 @@ All'interno dei template messi a disposizione per inviare email ai propri client
 |**## DEPOSIT DUE ##** |L'importo della caparra dovuta |560€ | 
 |**## BALANCE DUE ##** |L'importo totale meno la caparra dovuta |1440€ | 
 |**## BALANCE TO DATE ##** |Lo stato attuale del conto |1300€ |   
-|**## ADDITIONAL NOTES ##** |Le note addizionali inserite per la mail che si sta inviando|Le abbiamo riservato un trilocale vista mare!|   
+|**## ADDITIONAL NOTES ##** |Le note addizionali inserite per la mail che si sta inviando|Le abbiamo riservato un trilocale!|   
 |**## RECEIVER ##** |Intestatario per il bonifico alla struttura |Casa Vacanze Quovai S.p.A |   
 |**## BANK ##** |Banca per il bonifico alla struttura |Monte dei Paschi di Paperopoli filiale di Topolinia |   
 |**## IBAN ##** |IBAN della struttura per il bonifico |PP43434343432899848849398 |   
