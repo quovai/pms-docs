@@ -13,6 +13,10 @@
 - [Accedere ai dati della carta di credito](accedere-alla-carta-di-credito-it.md)
 
 
+## Deduzioni e tasse
+- [Come inserire una caparra](come-inserire-una-caparra-it.md)
+
+
 ## La fatturazione elettronica
 - [Introduzione alla fatturazione elettronica](fatturazione-elettronica-it.md)
 - [Creare una fattura](creare-una-fattura-it.md)
