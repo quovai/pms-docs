@@ -29,13 +29,3 @@ Cliccando sul bottone Accedi alla prenotazione si apre la scheda del cliente con
 **Nota bene:** cliccando sul bottone Visualizza, i dati della carta di credito del cliente diventono visibili.
 
 Cliccando su Ricarica la pagina si ritorna alla scheda del cliente.
-
-![](images/spostare-prenotazione-001.png)
-
-Per spostare la prenotazione #59812 dalla camera 03 alla camera 02:
-
-![](images/spostare-prenotazione-002.png)
-
-Clicca su Sposta e dopo pochi istanti sparisce la prenotazione. Mette il mouse sulla riga della camera/dell'appartamento di scelta e viene inserita automaticamente.
-
-![](images/spostare-prenotazione-003.png)
