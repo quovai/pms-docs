@@ -24,9 +24,9 @@
 - [Il report occupazione - come sto andando quest'anno?](il-report-occupazione-it.md)
 
 
-## Channel manager 
-- [Impostare i limiti di disponibilità](impostare-i-limiti-di-disponibilità-it.md)
-- [Impostare le restrizioni](impostare-le-restrizioni-it.md)
+## Template email 
+- [I modelli per le comunicazioni delle strutture](modelli-per-le-communicazioni-della-struttura-it.md)
+- [Variabili disponibili per i template email](variabili-disponibili-per-i-template-email-it.md)
 
 
 ## Fatturazione elettronica
