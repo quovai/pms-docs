@@ -5,7 +5,7 @@
 ## Introduzione
 La fatturazione elettronica, inizialmente introdotta soltanto per le fatture verso le pubbliche amministrazioni, è obbligatoria dal 1/1/2019 anche per le fatture emesse da aziende private verso aziende private (B2B).
 
-Sostanzialmente, invece di recapitare un documento cartaceo o PDF, viene inviato ad un sistema centrale dell'Agenzia Entrate (chiamato SDI: sistema di interscambio) un file in formato **xml** che rappresenta in tutto e per tutto la fattura che le aziende erano abituati a produrre in passato.
+Sostanzialmente, invece di recapitare un documento cartaceo o PDF, viene inviato ad un sistema centrale dell'Agenzia Entrate (chiamato SDI: sistema di interscambio) un file in formato **xml** che rappresenta in tutto e per tutto la fattura che le aziende erano abituate a produrre in passato.
 
 ## Come viene gestita la fatturazione elettronica in Quovai PMS
 Quovai PMS implementa:
