@@ -10,6 +10,7 @@
 
 ## Booking online
 - [Accedere ai dati della carta di credito](accedere-alla-carta-di-credito-it.md)
+- [Garanzie e pagamenti](garanzie-e-pagamenti-it.md)
 
 
 ## La fatturazione elettronica
