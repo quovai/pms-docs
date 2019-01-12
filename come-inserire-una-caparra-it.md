@@ -11,5 +11,3 @@ e si inserisce una nuova "Deduzione" sotto "Categoria di addebito", scegliendo "
 ![](images/caparra-002.png)
 
 Con "Salva" l'addebito viene registrato.
- 
- 
