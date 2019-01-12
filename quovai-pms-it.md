@@ -21,6 +21,7 @@
 ## Reportistica
 - [Come esportare un report in Excel o OpenOffice](come-esportare-un-report-in-Excel-o-OpenOffice-it.md)
 - [Il report corrispettivi](il-report-corrispettivi-it.md)
+- [Il report occupazione - come sto andando quest'anno?](il-report-occupazione-it.md)
 
 
 ## Fatturazione elettronica
