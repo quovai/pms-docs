@@ -15,6 +15,11 @@
 
 ## Deduzioni e tasse
 - [Come inserire una caparra](come-inserire-una-caparra-it.md)
+- [Come aggiungere la tassa di soggiorno](come-aggiungere-la-tassa-di-soggiorno-it.md)
+
+
+## Reportistica
+- [Come esportare un report in Excel o OpenOffice](come-esportare-un-report-in-Excel-o-OpenOffice-it.md)
 
 
 ## La fatturazione elettronica
