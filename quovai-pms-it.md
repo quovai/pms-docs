@@ -39,5 +39,5 @@
 
 ## GDPR & privacy
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-Quovai-PMS-it.md)
-- [Cos'è un dato personale?](cos'è-un-dato-personale?-it.md)
+- [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
 
