@@ -19,7 +19,7 @@
 
 
 ## Reportistica
-- [Come esportare un report in Excel o OpenOffice](come-esportare-un-report-in-Excel-o-OpenOffice-it.md)
+- [Come esportare un report in Excel o OpenOffice](come-esportare-un-report-in-excel-o-openoffice-it.md)
 - [Il report corrispettivi](il-report-corrispettivi-it.md)
 - [Il report occupazione - come sto andando quest'anno?](il-report-occupazione-it.md)
 
@@ -38,6 +38,6 @@
 
 
 ## GDPR & privacy
-- [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-Quovai-PMS-it.md)
+- [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
 - [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
 
