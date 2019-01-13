@@ -2,7 +2,7 @@
 
 
 # Come funziona la privacy con Quovai PMS
-asdfadsfasfadfadsfafadsfasdfas
+
 ## Prima del check-in
 
 ### In fase di prenotazione telefonica e/o da channel manager o portali.
