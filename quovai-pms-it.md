@@ -6,12 +6,12 @@
 - [Il pannello principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
+- [La gestione degli allegati] (gestire-allegati-it.md)
 
 
 ## Booking online
 - [Garanzie e pagamenti](garanzie-e-pagamenti-it.md)
 - [Accedere ai dati della carta di credito](accedere-alla-carta-di-credito-it.md)
-
 
 ## Deduzioni e tasse
 - [Come inserire una caparra](come-inserire-una-caparra-it.md)
@@ -40,4 +40,5 @@
 ## GDPR & privacy
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-Quovai-PMS-it.md)
 - [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
+
 
