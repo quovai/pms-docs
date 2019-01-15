@@ -6,7 +6,7 @@
 - [Il pannello principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
-- [La gestione degli allegati] (gestire-allegati-it.md)
+- [La gestione degli allegati](gestire-allegati-it.md)
 
 
 ## Booking online
