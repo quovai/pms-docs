@@ -6,6 +6,7 @@
 - [Il pannello principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
+- [La gestione degli allegati](gestire-allegati-it.md)
 
 
 ##  Listino, disponibilità e prezzi 
@@ -22,7 +23,6 @@
 ## Booking online
 - [Garanzie e pagamenti](garanzie-e-pagamenti-it.md)
 - [Accedere ai dati della carta di credito](accedere-alla-carta-di-credito-it.md)
-
 
 ## Deduzioni e tasse
 - [Come inserire una caparra](come-inserire-una-caparra-it.md)
@@ -44,11 +44,13 @@
 - [Introduzione alla fatturazione elettronica](fatturazione-elettronica-it.md)
 - [Creare una fattura](creare-una-fattura-it.md)
 - [La lista delle fatture emesse](la-lista-fatture-emesse-it.md)
-- [Archiviare e registrare le fatture](archivio-fatture-it.md) 
+- [Archiviare e registrare le fatture](archivio-fatture-it.md)
+- [La copia di cortesia in PDF](la-copia-di-cortesia-it.md)
 - [Le novità introdotte nel gestionale con la fatturazione elettronica](novita-fatel-it.md)
 
 
 ## GDPR & privacy
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
 - [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
+
 
