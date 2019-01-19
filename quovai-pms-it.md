@@ -16,8 +16,8 @@
 - [Chiudere e aprire le camere]
 - [Impostare le condizioni]
 - [Variare i prezzi]
-- [Copiare i prezzi] (copiare-il-listino-it.md)
-- [Copiare il listino da una stagione all'altra]
+- [Copiare i prezzi] 
+- [Copiare il listino da una stagione all'altra] (copiare-il-listino-it.md)
 
 
 ## Booking online
