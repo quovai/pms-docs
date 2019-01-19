@@ -15,8 +15,6 @@ Dopo pochi istanti appare il modulo per l'inserimento della prenotazione con le 
 
 Es. nel nostro caso giorno di arrivo Sabato 26/01, giorno di fine soggiorno Venerdì 01/02, giorno di check-out Sabato 02/02
 
-![](images/booking-003c.png)
-
 Nel modulo di prenotazione le date sono precompilate (con le date scelte cliccando sul tableau). Per salvare una nuova prenotazione è quindi sufficiente creare un cliente inserendo ora solo nome e cognome (gli unici dati obbligatori) (vedere immagine sopra). 
 
 E' utile anche compilare i Dati Commerciali (agenzia, segmento mercato, segmento cliente e modo prenotazione) per poter condurre una seria analisi del portafoglio clienti. Questi dati commerciali possono essere impostati come dati obbligatori in fase di prenotazione (vedi immagine).
