@@ -10,7 +10,7 @@
 
 
 ##  Listino, disponibilità e prezzi 
-- [La gestione del listino (aspetti generali)]
+- [La gestione del listino]
 - [Impostare il prezzo]
 - [Impostare le restrizioni]
 - [Chiudere e aprire le camere]
