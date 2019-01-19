@@ -16,7 +16,7 @@
 - [Chiudere e aprire le camere]
 - [Impostare le condizioni]
 - [Variare i prezzi]
-- [Copiare i prezzi] 
+- [Copiare i prezzi] (copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
 
 
