@@ -8,6 +8,17 @@
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
 
 
+##  Listino, disponibilità e prezzi 
+- [La gestione del listino (aspetti generali)]
+- [Impostare il prezzo]
+- [Impostare le restrizioni]
+- [Chiudere e aprire le camere]
+- [Impostare le condizioni]
+- [Variare i prezzi]
+- [Copiare i prezzi]
+- [Copiare il listino da una stagione all'altra]
+
+
 ## Booking online
 - [Garanzie e pagamenti](garanzie-e-pagamenti-it.md)
 - [Accedere ai dati della carta di credito](accedere-alla-carta-di-credito-it.md)
