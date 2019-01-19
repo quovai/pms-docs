@@ -3,7 +3,7 @@
 
 # Come creare una prenotazione
 
-Per creare una prenotazione nel tableau devi cliccare sul giorno del **primo pernottamento** (che diventa verde e poi arancione) e sul giorno di **ultimo pernottamento**.
+Clicca su **Tableau**. Per creare una prenotazione, devi cliccare sul giorno del **primo pernottamento** (che diventa verde e poi arancione) e sul giorno di **ultimo pernottamento**.
 
 Es. per creare una prenotazione da Sabato a Sabato, clicco sul **Sabato di arrivo** e quindi sul **Venerdì precedente alla partenza**.
 
