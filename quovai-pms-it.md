@@ -10,7 +10,7 @@
 - Glossario
  
 ##  Listino, disponibilità e prezzi 
-- [La gestione del listino]
+- [La gestione del listino] (la-gestione-del-listino-it.md)
 - [Impostare le tariffe]
 - [Impostare il prezzo]
 - [Impostare le restrizioni]
