@@ -96,4 +96,4 @@ Gruppo di camere che ha lo stesso livello tariffario, le stesse caratteristiche 
 **XML (Extensive Markup Language)** 
 Un linguaggio di programmazione web utilizzato dai Channel Manager per comunicare a 2 vie dall 'hotel ai vari OTAs  i prezzi e la disponibilità di camere ed in senso contrario l'allocamento da parte dei vari OTAs della camere dell'hotel.
 
-*Fonte d'informazione: [Revenuebolario 2015](http://enzoaita.com/revenuebolario/content/home/revenuebolario-2015.pdf)* [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Glossario
+*Fonte d'informazione: [Revenuebolario 2015](http://enzoaita.com/revenuebolario/content/home/revenuebolario-2015.pdf)* 
