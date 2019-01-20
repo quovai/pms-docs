@@ -3,12 +3,14 @@
 
 # Documentazione Quovai PMS
  
+- [Glossario](glossario-it.md)
+ 
 ## Primi passi con Quovai PMS
 - [Il pannello principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
 - [La gestione degli allegati](gestire-allegati-it.md)
-- [Glossario](glossario-it.md)
+
  
 ##  Listino, disponibilità e prezzi 
 - [La gestione del listino](la-gestione-del-listino-it.md)
