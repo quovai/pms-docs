@@ -1,5 +1,4 @@
 
-
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Glossario
 
 # Glossario  
