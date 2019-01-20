@@ -7,14 +7,20 @@
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
 - [La gestione degli allegati](gestire-allegati-it.md)
-
+- Glossario
  
 ##  Listino, disponibilità e prezzi 
 - [La gestione del listino]
+- [Impostare le tariffe]
 - [Impostare il prezzo]
 - [Impostare le restrizioni]
-- [Chiudere e aprire le camere]
+- [Interfaccia con il channel manager]
+
+
+
 - [Impostare le condizioni]
+- [Chiudere e aprire le camere]
+
 - [Variare i prezzi]
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)

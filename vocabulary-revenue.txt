@@ -1,0 +1,340 @@
+Allotment  
+Un contratto tra cliente business (Tour Operator, OTA o azienda)
+e struttura ricettiva (hotel, residence, bed & breakfast., ecc.).
+L’oggetto del contratto, negoziato ogni anno, sono una parte di
+camere (un contingente o un lotto, da qui la parola ‘allotment’) che
+la struttura mette a disposizione del cliente. Questi è depositario
+di quel numero di camere e potrà venderle ai suoi clienti entro un
+termine. Se non riesce a vendere le camere entro il termine stabilito
+nel contratto deve rilasciare questo lotto di camere invendute al 
+gestore della struttura ricettiva, che ne rientra così in possesso per
+poterle vendere direttamente.
+
+Average Daily Rate – ADR
+Con questo indice possiamo calcolare il prezzo medio di vendita
+giornaliero. Si calcola dividendo la produzione giornaliera relativa
+alle camere per il numero di camere vendute. Possiamo utilizzarlo
+anche per valutare segmenti/mercati/tipologie di camera: il
+segmento business notoriamente ha prezzi medi inferiori al
+segmento leisure (compensati dal numero più frequente di
+prenotazione di quella particolare azienda); la camera standard
+ovviamente avrà un prezzo medio più basso della suite. Usato
+anche come sinonimo di Average Room Rate o Average House Rate,
+accademicamente si riferisce solo al periodo analizzato di un giorno.
+
+Bottom Rate
+Tariffa Minima al di sotto della quale non si vuole vendere la
+tipologia di camera. Prezzo di “emergenza”.
+
+Cancellabile / Non Cancellabile
+Caratteristica di ogni prenotazione: solo alcune di esse possono
+essere cancellate gratuitamente, per le restanti c’è una penalità da
+pagare.
+Channel management
+Le tecniche e i sistemi usati dall’hotel per aggiornare le informazioni, l’inventario delle camere e le tariffe in ogni canale di distribuzione.
+
+Up-selling nel marketing turistico = Vendere al cliente una camera migliore per aumentare il revenue dell hotel.
+
+Cross selling nel marketing turistico = Vendere al cliente servizi accessori alla camera per aumentare il revenue dell hotel.
+
+
+Politiche di Cancellazione
+Le condizioni per le quali è possibile cancellare la prenotazioni. Tra
+queste, di maggior spicco è la penalità.
+
+Conversione
+É un indice utilizzato, nel settore turistico, per capire quanti
+potenziali clienti diventano effettivamente tali. Es. il 3% di
+conversione sul Booking Engine indica che il 3% dei clienti che
+hanno fatto una prova di prenotazione l’ha effettivamente portata a
+termine. Ovviamente tale indice può essere utilizzato partendo da
+vari livelli diversi.
+
+Costi Fissi – CF
+Costo che non varia al variare della quantità di prodotto venduto.
+Es. interessi bancari, investimenti di marketing, manutenzione
+ordinaria, personale (in parte).
+Costi Irrecuperabili
+vedi Costi Sommersi
+Costi Semi-Fissi – CSF
+Chiamati anche “a scalino” (per la forma del grafico che ne deriva),
+sono costi che variano al variare di un certo numero di quantità
+vendute. Es: housekeeping – se in outsourcing, non variano per
+ogni camera venduta ma non sono neanche fisse per qualsiasi sia il
+venduto.
+ESEMPIO 1 housekeeper ogni 5 camere. Diventano 2, sempre in
+questo caso, solo se le camere vendute sono nel range di 6-10.
+
+Costi Sommersi
+Sono quei costi che non possono essere recuperati in alcuna 
+maniera significativa. Può esserlo un costo pregresso relativo a
+decisioni prese nel passato e relative in genere ad attività fisse
+che, pur essendo ancora utilizzabili, sono rese tecnologicamente
+obsolete dai più moderni processi produttivi adottati dall’impresa.
+Si configurano come barriere all’uscita o all’entrata (rispettivamente
+per aziende già operanti nel settore e aziende entranti). Si pensi,
+per esempio, ai costi per attività di marketing. Ritenuti s. c. perché,
+in caso di cessazione dell’attività, non possono essere venduti ad
+altra impresa.
+
+Costi Specifici
+Un costo è definito specifico quando è imputabile a un unico centro
+di costo. Es: il costo di housekeeping è attribuibile, spesso, solo al
+reparto camere.
+
+Costi Variabili – CV
+Costi che variano al variare di ogni singola unità di prodotto
+venduta. Ne sono esempio i prodotti di cortesia in camera.
+
+Costo Accettabile
+Costo stimato che permette di soddisfare nel modo migliore le
+aspettative del cliente. Il costo, ovviamente, è più elevato nelle
+strutture dove i clienti hanno maggiore “Disponibilità a Pagare”.
+
+Costo Fisso Per Camera – CFC
+Indice che evidenzia i miei costi fissi per ogni camera venduta. Si
+ottiene dividendo tutti i costi fissi del periodo analizzato (anno,
+mese, giorno) / camere vendute nello stesso periodo.
+
+Costo Marginale Unitario – CMU
+Costo derivante da ogni unità aggiuntiva. Può essere espresso in:
+costo per ora (di una manutenzione o consulenza), costo per chilo 
+(nel caso di materie prime), costo per unità produttiva (per l’acquisto
+di materie lavorate o finite). Es: se il costo di 10 chiavi è 100 € e il
+costo di 15 chiavi è 130 €, il costo di ogni chiave aggiuntiva è (130100)/(15-10) = 30/5 = 6 €.
+
+Costo Medio Camera – CMC
+Il costo medio camera è l’indice che evidenza il costo per ogni
+camera venduta. Secondo molti esperti la bottom rate dovrebbe
+essere questo indice (diverso per ogni tipologia e per ogni giorno
+dell’anno). Si calcola sommando Costi Fissi Camera + Costi Semifissi
+Camera + Costi Variabili Camera.
+
+Costo Ottenibile
+Costo minimo stimato per fornire un prodotto in linea con le
+indicazioni del mercato.
+
+Costo Semifisso Per Camera – CSFC
+Indice che evidenzia i miei costi semifissi per ogni camera venduta.
+Si ottiene dividendo tutti i costi semifissi del periodo analizzato
+(anno, mese, giorno) / camere vendute nello stesso periodo.
+
+Costo Unitario – CU
+Il costo unitario è il costo medio di ogni singolo prodotto/servizio/
+prestazione. Si può riferire a tutti i tipi di costo. Esempi: fissi, costo
+fitto annuale / 365 giorni (ottengo il costo unitario del fitto);
+semifissi, costo del personale / n° dipendenti (ottengo il costo
+medio unitario per dipendente); variabili, totale prezzo ordine /
+quantitativo (ottengo il costo unitario di ogni singolo prodotto/
+servizio acquistato).
+
+Costo Variabile Per Camera – CVC
+Indice che evidenzia i miei costi variabili per ogni camera venduta. 
+Si ottiene dividendo tutti i costi variabili del periodo analizzato
+(anno, mese, giorno) / camere vendute nello stesso periodo.
+
+Durata Del Soggiorno
+Numero di notti passate in un hotel o differenza tra data di arrivo e
+data di partenza (tra il Check-In e il Check-Out).
+
+Dynamic Pricing
+Modello di strategia tesa alla modifica delle tariffe di vendita in 
+modalità dinamica e funzionale alla domanda attesa. Prevede una
+variazione tariffaria costante in base a vari elementi
+
+Fully Booked
+Indica la mancanza di disponibilità alla vendita di unità di inventario
+per via di capacità interamente saturata da prenotazioni (o in parte
+da camere out of order).
+
+Historical Booking Model
+Modelli di previsione della domanda basati solamente sul dato
+storico consuntivo delle room night (o arrivi, ecc.). Tra questi, i più
+conosciuti sono: Same Date – Last Years e Media Mobile.
+Same Date – Last Years la stima viene effettuata sulla base
+dell'occupazione avuta lo stesso giorno dell'anno precedente.
+Es. si prende il Lunedì della prima settimana di marzo del 2013
+per stimare il lunedì della prima settimana di marzo del 2014.
+É necessario fare molta attenzione al giorno da comparare,
+soprattutto in caso di eventi.
+Media Mobile la stima viene effettuata facendo la media
+dell’occupazione avuta per le osservazioni storiche registrate negli
+n periodi precedenti; ha il pregio di attenuare l'incidenza delle
+date in cui l'occupazione risulta maggiore rispetto alla media. Es.
+prendendo lo stesso esempio precedente, la media dei primi lunedì
+di marzo degli ultimi 4 anni.
+SUGGERIMENTO Come data di confronto potrebbe essere preso
+anche uno o più giorni appena storicizzati dell'anno in corso purché siano
+comparabili, per comportamento, a quello su cui stiamo effettuando la
+stima.
+
+Inventario
+Insieme dei prodotti tariffari singolarmente vendibili da parte
+dell'hotel. Può riguardare le camere, i posti al ristorante, i
+trattamenti SPA, ecc. Per prodotto tariffario si intende l'insieme
+di prezzo/classe di camera/occupazione/restrizioni/cancellation
+policy. Per cui di fronte a un numero fisico di camere si possono
+avere n prodotti tariffari.
+ESEMPIO 100 camere si possono mettere in vendita ognuna per
+occupazione singola, doppia, tripla, con restrizioni diverse, con cancellation
+policy diverse, a prezzi differenti.
+
+
+Maincourante
+Registro che riporta gli eventi, le transazioni contabili di una
+struttura oppure l'annotazione riferita alla camera comprensiva di
+costi e tipologia di pagamento ricevuto.
+
+Mancato Arrivo
+Si verifica quando un cliente, che regolarmente ha prenotato, non
+si presenta senza premurarsi né di annunciare la sua assenza né
+di disdire la camera prenotata. Questo può creare inconvenienti
+all’organizzazione e all’albergatore che si potrebbe trovare
+nell’impossibilità di vendere la camera all’ultimo momento. Dato
+che il no show non è raro, l'albergatore si premunisce inserendo
+nel contratto alcune regole cui far riferimento, tra le quali la
+responsabilità dell'albergatore che si limita alla prima notte: il
+mancato arrivo provoca la disdetta automatica per le altre notti
+e la camera ritorna disponibile. In questo campo non esistono
+regole rigide: disdette, penalità, acconti, ecc. possono e devono
+essere stabiliti previamente ma dipende anche dal rapporto di
+fiducia esistente nonché dal particolare contesto della situazione.
+Solitamente il no show comporta per l'ospite l'addebito di una
+penale pari alla prima notte di soggiorno o maggiore di una 
+notte nel caso di particolari promozioni. La raccolta di tale dato è
+uno dei fattori che ci permette di gestire in modo programmato
+l'overbooking
+
+Occupancy
+Indica il numero massimo di persone per la tipologia camera,
+Occupation Index
+[Occupazione Hotel] / [Occupazione Competitive Set] x 100
+Se uguale a 100% abbiamo la stessa occupazione (in percentuale)
+dei competitor; se inferiore o superiore abbiamo occupazione
+minore o maggiore rispetto allo stesso competitive set.
+
+On the Book Last Year – OTBLY
+Business (camere e/o ricavi) analizzato per un certo periodo
+dello scorso anno, a una certa data dello scorso anno. Esempio:
+prenotazioni per il mese di maggio 2013, analizzate il giorno 20
+aprile 2013.
+
+
+Overbooking
+Capacità virtuale dell’hotel che deve essere aggiunta alla capacità
+fisica di ogni inventario in modo da poter compensare i no-shows e
+le cancellazioni dell’ultimo momento. Può essere casuale o previsto
+dalla politica aziendale.
+
+
+Penalità
+Condizioni, usualmente di tipo temporale, che permettono o meno
+la cancellazione o modifica della prenotazione. Come penalità
+a seguito di ciò si potrebbe pagare solo la prima notte, una
+percentuale sull'ammontare del soggiorno totale, l'intera somma o
+al contrario nessuna penale può essere applicata (dipende dal tipo
+di prenotazione iniziale).
+
+Prenotazione
+Prenotazione identificata con: un numero di prenotazione, il nome
+del cliente, le date di arrivo e di partenza, i servizi collegati, ecc. Una
+prenotazione può rappresentare più camere e/o più notti.
+
+Rack Rate – RACK
+Prezzo di listino esposto al pubblico come da comunicazione
+agli enti amministrativi preposti e quindi il prezzo massimo che
+si può applicare per tipo di camera. Punibile di sanzione il suo
+superamento nella vendita.
+
+Rate
+Termine anglosassone che indica la tariffa di vendita di un prodotto
+o di un servizio.
+
+
+Revenue
+Termine anglosassone che indica il fatturato prodotto in un dato
+periodo di tempo. In generale viene calcolato il fatturato prodotto al
+netto delle imposte.
+
+Revenue Per Available Customer – REVPAC
+Il ricavo generato da ogni singolo cliente. Si calcola dividendo i ricavi
+totali dovuti al segmento e/o ASA per il numero dei clienti che lo
+hanno generato.
+
+
+Revenue Per Available Room – REVPAR
+Il ricavo medio per camera disponibile si calcola attraverso
+l'applicazione di 2 formule semplici:
+[Totale dei Ricavi camere] / [Totale Camere in inventario]
+R 114 Revenuebolario
+[Tariffa Media di Vendita] x [Percentuale di Occupazione]
+Unendo prezzo e occupazione annulla le differenze tra un giorno
+e l'altro (o tra vari hotel) dando come output un unico indice più
+affidabile.
+ESEMPIO Conviene avere l'occupazione dell'80% a 100 € o del 70% a
+110? Risposta: Revpar (1) = 80 €; Revpar (2) = 77 €.
+
+
+Rimborsabile / Non Rimborsabile
+Caratteristica di una prenotazione la quale, in caso di cancellazione,
+prevede (o meno) la rimborsabilità della somma versata.
+
+
+Riprotezione
+Azione tramite la quale l’albergo, non potendo (overbooking) o non
+volendo accogliere più la prenotazione del cliente, si occupa della
+sua riprotezione, ovvero di allocarlo in una struttura limitrofa e di
+pari livello (o superiore) in quanto la prenotazione non è onorabile
+
+Room Types
+Classificazione di ogni classe di camera in base: al tipo di letto (king,
+queen, twin, double); al numero di occupanti (singola, doppia, tripla,
+ecc.); allestimento per disabili; smoking/non smoking.
+
+Tariffe Derivate
+Tariffe che vengono derivate dalla tariffa Master. Esempio può
+essere la tariffa HB (Half Board o Mezza Pensione), ricavata dalla
+BB (Bed&Breakfast), tariffa Master, con un'aggiunta di quota
+di prezzo (percentuale o in valore numerico). Ovviamente vale
+viceversa.
+
+Tipologie Di Camere
+Gruppo di camere che ha lo stesso livello tariffario, le stesse
+caratteristiche al livello del mobilio, la stessa vista, lo stesso piano.
+
+Upselling
+Tecnica di vendita con la quale si tenta di invogliare il cliente ad
+acquistare beni (servizi) di prezzo più elevato o più servizi di quelli
+inizialmente richiesti.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
