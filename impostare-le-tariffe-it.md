@@ -1,4 +1,9 @@
 
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Impostare le condizioni
+
+# Impostare le condizioni
+ 
+ Clicca su **Configurazione** e poi **Condizioni**.
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Impostare le tariffe
 
 # Impostare le tariffe
@@ -18,10 +23,15 @@ Ci sono 2 voci: Dati generali e Sconti automatici.
 ![](images/impostare-tariffe-003.png)
 
 Chiariamo alcune nozioni di base per quanto riguarda **Dati generali**:
+
 **Nome:** riferisce al nome della tariffa (standard rate, settimanale, rimborsabile, non-rimborsabile ecc).
+
 **Tipo tariffa:** ci sono tre tipi (1) per camera/appartamento (2) per persona (3) per camera/appartamento e persona.
+
 **Trattamento**: riferisce alle differenti tipologie di trattamento come 'solo pernottamento', 'bed & breakfast', 'mezza pensione' e 'pensione completa'.
+
 **Non rimborsabile**: caratteristica di una prenotazione la quale, in caso di cancellazione non prevede la rimborsabilità della somma versata. 
+
 **Ordinamento:** il modo di presentare le varie tariffe nel listino. Per esempio, standard rate - inserisci 10; 7 notti - inserisci 20; booking com standard rate - inserisci 30 ecc... per avere l'ordinamento: standard rate, 7 notti, booking com standard rate ecc. 
  
  ![](images/impostare-tariffe-004.png)
