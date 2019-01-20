@@ -1,9 +1,4 @@
 
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Impostare le condizioni
-
-# Impostare le condizioni
- 
- Clicca su **Configurazione** e poi **Condizioni**.
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Impostare le tariffe
 
 # Impostare le tariffe
