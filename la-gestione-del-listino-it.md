@@ -11,7 +11,7 @@ Dopo pochi istanti appare il listino. Sull'asse **orizzontale** ci sono i giorni
 
 ![](images/gestione-listino-002.png)
  
-Chiariamo alcuni nozioni: 
+Chiariamo alcune nozioni: 
 
  - **Il prezzo** è l'importo a cui viene venduto una camera/un appartamento/un alloggio per una data combinazione di tariffa e giorno. 
  - **La tariffa** o **rate** (termine anglosassone) abbina le condizioni di prenotazione ed un trattamento come pernottamento, B&B rimborsabile, non rimborsabile, settimanale ecc. e rappresenta la base su cui la struttura ricettiva costruisce la sua piramide di prezzi.
