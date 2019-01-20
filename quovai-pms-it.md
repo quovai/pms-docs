@@ -1,3 +1,4 @@
+
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
@@ -7,10 +8,10 @@
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
 - [La gestione degli allegati](gestire-allegati-it.md)
-- [Glossario] (glossario-it.md)
+- [Glossario](glossario-it.md)
  
 ##  Listino, disponibilità e prezzi 
-- [La gestione del listino] (la-gestione-del-listino-it.md)
+- [La gestione del listino](la-gestione-del-listino-it.md)
 - [Impostare le tariffe]
 - [Impostare il prezzo]
 - [Impostare le restrizioni]
