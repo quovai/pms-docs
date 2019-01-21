@@ -23,7 +23,7 @@ Chiariamo alcune nozioni:
 
 **Prezzo:** inserisci il tuo prezzo. Con il '**+**' e il '**-**', puoi rapidamente aggiustare il prezzo. Il prezzo settimanale viene calcolato automaticamente.
 
-**Variazione:** puoi variare il prezzo di un certo valore fisso o percentuale.
+**Variazione:** puoi variare il prezzo che hai inserito sotto Prezzo di un certo valore fisso o percentuale.
 
 ![](images/impostare-prezzi-003.png)
 
