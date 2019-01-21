@@ -2,7 +2,7 @@
 
 # Introdurre le agenzie
 
-*Online Travel Agency (OTA) e Agenzie di viaggi classici che utilizzano Internet per la vendita di servizi turistici. Generalmente funge da intermediario tra il cliente e il fornitore del servizio, richiedendo per questo una provvigione. Può essere di tipo "verticale" o "orizzontale": la Agenzia "verticale" vende un solo tipo di servizio (solo ricettività, solo trasporti, ecc.), la Agenzia "orizzontale" vende servizi di vario genere (ricettività, trasporti, noleggio, crociere, pacchetti, ecc.).*
+*Le agenzie fungono da intermediario tra il cliente e il fornitore del servizio, richiedendo per questo una provvigione. Può essere di tipo "verticale" o "orizzontale": la Agenzia "verticale" vende un solo tipo di servizio (solo ricettività, solo trasporti, ecc.), la Agenzia "orizzontale" vende servizi di vario genere (ricettività, trasporti, noleggio, crociere, pacchetti, ecc.).*
 
 Clicca su **Configurazione** e poi **Agenzie**.  
 
