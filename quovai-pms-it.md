@@ -18,9 +18,11 @@
 - [Impostare le tariffe](impostare-le-tariffe-it.md)
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
 - [Impostare le restrizioni](impostare-le-restrizioni-it.md)
+- [Introdurre le agenzie](introdurre-le-agenzie-it.md)
 - [Impostare (o variare) i prezzi](impostare-i-prezzi-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
+- [Allotment]
 
 
 ##  Channel Manager
