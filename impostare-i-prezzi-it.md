@@ -1,4 +1,5 @@
 
+
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Impostare i prezzi
 
 # Impostare i prezzi
@@ -7,24 +8,25 @@
 
 ![](images/impostare-prezzi-001.png)
 
-Appare il tableau per iniziare ad impostare i tuoi prezzi. Per prima cosa, avrai già definito [le tue tariffe](https://quovai.github.io/impostare-le-tariffe-it.html). 
+Appare il tableau per iniziare ad impostare o variare i tuoi prezzi. Per prima cosa, avrai già definito [le tue tariffe](https://quovai.github.io/impostare-le-tariffe-it.html). 
 
-**Esempio**: sul tableau, ci mettiamo accanto alla camera matrimoniale, scegliamo lo standard rate, doppia clicca sulla data di interesse (con il mouse sinistro) e appare il modulo per l’inserimento dei prezzi.
+**Esempio**: sul tableau, scegli camera matrimoniale e lo standard rate, doppia clicca sulla data di interesse (con il mouse sinistro) e appare il modulo per l’inserimento (o la eventuale variazione) dei prezzi.
 
 ![](images/impostare-prezzi-002.png)
 
 **Salve dopo ogni operazione.**
 
 Chiariamo alcune nozioni:
-**Da data a data:** inserisci le date d'interesse con l'aiuto di un calendario.
 
-**Prezzi:** qui inserisci il tuo prezzo. Con il '**+**' e il '**-**', puoi rapidamente aggiustare il prezzo. Il prezzo settimanale viene calcolato automaticamente.
+**Da data a data:** inserisci la data d'interesse o un intervallo con l'aiuto di un calendario.
 
-**Variazione:** dei prezzi di un certo valore fisso o percentuale.
+**Prezzo:** qui inserisci il tuo prezzo. Con il '**+**' e il '**-**', puoi rapidamente aggiustare il prezzo. Il prezzo settimanale viene calcolato automaticamente.
+
+**Variazione:** puoi variare il prezzo di un certo valore fisso o percentuale.
 
 ![](images/impostare-prezzi-003.png)
 
-**Restrizioni:** molti hotel stabiliscono una o più restrizioni come minimum stay, giorno di arrivo o di partenza.  
+**Restrizioni:** come minimum stay, giorno di arrivo o giorno di partenza.  
 
 ![](images/impostare-prezzi-004.png)
 
@@ -32,7 +34,7 @@ Chiariamo alcune nozioni:
 
 ![](images/impostare-prezzi-005.png)
 
-**Condizioni:** fa riferimento [alle condizioni](https://quovai.github.io/impostare-le-condizioni-it.html) già definite. 
+**Condizioni:** fa riferimento [alle condizioni](https://quovai.github.io/impostare-le-condizioni-it.html) che hai già definite. 
 
  ![](images/impostare-prezzi-006.png)
  
