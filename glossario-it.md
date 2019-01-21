@@ -86,6 +86,9 @@ Caratteristica di una prenotazione la quale, in caso di cancellazione, prevede (
 **Riprotezione**
 Azione tramite la quale l’hotel, non potendo (overbooking) o non volendo accogliere più la prenotazione del cliente, si occupa della sua riprotezione, ovvero di allocarlo in una struttura limitrofa e di pari livello (o superiore) in quanto la prenotazione non è onorabile.
 
+**Segmento di mercato**
+Un segmento di mercato è un gruppo di ospiti accomunati da caratteristiche simili: abitudini di prenotazione, sensibilità rispetto al prezzo, motivo del soggiorno (piacere o lavoro), ecc.
+
 **Tariffe Derivate**
 Tariffe che vengono derivate dalla tariffa Master. Esempio può essere la tariffa HB (Half Board o Mezza Pensione), ricavata dalla BB (Bed&Breakfast), tariffa Master, con un'aggiunta di quota di prezzo (percentuale o in valore numerico). Ovviamente vale viceversa.
 
