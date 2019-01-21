@@ -1,6 +1,6 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Il pannello principale
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / La dashboard principale
 
-# La dashboard principale
+# La dashboard (o il pannello) principale
 
 Appena effettuato il collegamento al sistema, vengono presentate alcune informazioni di sintesi che consentono alla struttura di avere un colpo d'occhio sulla situazione delle prenotazioni che richiedono maggiore attenzione.
 
