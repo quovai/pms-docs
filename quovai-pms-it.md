@@ -1,5 +1,6 @@
 
 
+
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
@@ -17,7 +18,7 @@
 - [La gestione del listino](la-gestione-del-listino-it.md)
 - [Impostare le tariffe](impostare-le-tariffe-it.md)
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
-- [Impostare le restrizioni]
+- [Impostare le restrizioni](impostare-le-restrizioni-it.md)
 - [Impostare (o variare) i prezzi](impostare-i-prezzi-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
