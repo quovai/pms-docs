@@ -1,5 +1,4 @@
 
-
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
@@ -59,6 +58,10 @@
 - [Archiviare e registrare le fatture](archivio-fatture-it.md)
 - [La copia di cortesia in PDF](la-copia-di-cortesia-it.md)
 - [Le novità introdotte nel gestionale con la fatturazione elettronica](novita-fatel-it.md)
+
+
+## L'area log in 
+- [Modifica password/nuovi utenti/activity log](area-login-it-md)
 
 
 ## GDPR & privacy
