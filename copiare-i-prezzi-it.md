@@ -13,6 +13,8 @@ Appare il tableau per iniziare ad impostare i tuoi prezzi. Per prima cosa, avrai
 
 ![](images/impostare-prezzi-002.png)
 
+**Salva dopo ogni operazione.** 
+
 Chiariamo alcune nozioni:
 **Da data a data:** puoi inserire una data d'interesse o un intervallo con l'aiuto di un calendario. 
 
@@ -33,3 +35,4 @@ Chiariamo alcune nozioni:
 **Condizioni:** fa riferimento [alle condizioni](https://quovai.github.io/impostare-le-condizioni-it.html) che hai già definite. 
 
  ![](images/impostare-prezzi-006.png)
+ 
