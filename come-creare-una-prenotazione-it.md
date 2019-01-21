@@ -11,7 +11,7 @@ Es. per creare una prenotazione da Sabato a Sabato, clicco sul **Sabato di arriv
 
 Una volta indicate le date, i giorni corrispondenti alla prenotazione si colorano di giallo per qualche istante e appare un box con la scritta Caricamento in corso …
 
-Dopo pochi istanti appare il modulo per l'inserimento della prenotazione con le date selezionate:
+Appare il modulo per l'inserimento della prenotazione con le date selezionate:
 nel nostro caso giorno di arrivo **Sabato 26/01**, giorno di fine soggiorno **Venerdì 01/02**, giorno di check-out **Sabato 02/02**
 
 Nel modulo di prenotazione le date sono precompilate (con le date scelte cliccando sul tableau). Per salvare una nuova prenotazione è quindi sufficiente creare un cliente inserendo ora solo nome e cognome (gli unici dati obbligatori). 

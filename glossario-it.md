@@ -20,8 +20,8 @@ Caratteristica di ogni prenotazione: solo alcune di esse possono essere cancella
 **Channel management**
 Le tecniche e i sistemi usati dall’hotel per aggiornare le informazioni, l’inventario delle camere e le tariffe in ogni canale di distribuzione (booking.com, Expedia, Airbnb ecc). 
 
-**Cross-selling (e poi up selling) nel marketing turistico** 
-Per aumentare il revenue dell hotel, una strategia di vendita all'ospite che ha già acquistato un particolare servizio o prodotto anche altri prodotti o servizi accessori/complementari. Invece **Up selling** significa vendere al cliente una camera migliore.  
+**Cross-selling (e poi upselling) nel marketing turistico** 
+Per aumentare il revenue dell hotel, una strategia di vendita all'ospite che ha già acquistato un particolare servizio o prodotto anche altri prodotti o servizi accessori/complementari. Invece **Upselling** significa vendere al cliente una camera migliore.  
 
 **Conversione**
 E' un indice utilizzato per capire quanti potenziali clienti diventano effettivamente tali. Es. il 3% di

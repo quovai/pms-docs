@@ -11,7 +11,7 @@ Poi sotto **Lista Tariffa** clicca su **Nuovo**.
 
 ![](images/impostare-tariffe-002.png)
 
-Dopo pochi istanti appare il modulo per iniziare ad impostare le tariffe:
+Appare il modulo per iniziare ad impostare le tariffe:
 
 Ci sono 2 voci: Dati generali e Sconti automatici.
 

@@ -8,7 +8,7 @@
 
 Poi sotto **Lista Condizioni** clicca su **Nuovo**.
 
-Dopo pochi istanti appare il modulo per iniziare ad impostare le condizioni.   
+Appare il modulo per iniziare ad impostare le condizioni.   
 
 ![](images/impostare-condizioni-002.png)
 
