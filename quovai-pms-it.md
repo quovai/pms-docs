@@ -10,7 +10,7 @@
 - [La dashboard principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
-- [La gestione degli allegati](gestire-allegati-it.md)
+- [Chiudere e aprire le camere]
 
  
 ##  Listino, disponibilità e prezzi 
@@ -18,17 +18,18 @@
 - [Impostare le tariffe](impostare-le-tariffe-it.md)
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
 - [Impostare le restrizioni]
-- [Impostare i prezzi](impostare-i-prezzi-it.md)
-
-
-- [Interfaccia con il channel manager]
-
-
-- [Chiudere e aprire le camere]
-
-- [Variare i prezzi]
+- [Impostare (o variare) i prezzi](impostare-i-prezzi-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
+
+
+## 
+- [Inviare email in automatico dal PMS]
+- [La gestione degli allegati](gestire-allegati-it.md)
+
+
+##  Channel Manager
+- [Interfaccia con il channel manager]
 
 
 ## Booking online
