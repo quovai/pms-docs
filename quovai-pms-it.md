@@ -10,7 +10,7 @@
 - [La dashboard principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
-- [Chiudere e aprire le camere](chiudere-apire-le-camere-it-md)
+- [Chiudere e aprire le camere](chiudere-apire-camere-it-md)
 
  
 ##  Listino, prezzi, condizioni, restrizioni ...
