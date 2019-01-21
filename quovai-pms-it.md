@@ -17,8 +17,9 @@
 - [La gestione del listino](la-gestione-del-listino-it.md)
 - [Impostare le tariffe](impostare-le-tariffe-it.md)
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
-- [Impostare il prezzo](impostare-i-prezzi-it.md)
 - [Impostare le restrizioni]
+- [Impostare i prezzi](impostare-i-prezzi-it.md)
+
 
 - [Interfaccia con il channel manager]
 
