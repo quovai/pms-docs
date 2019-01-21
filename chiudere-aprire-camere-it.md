@@ -1,6 +1,7 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Chiudere e aprire le camere
 
-# Chiudere e aprire le camere (disponibilità)
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Disponibilità - chiudere e aprire le camere
+
+# Chiudere e aprire le camere
 
 Clicca su **Gestione** e poi **Listino**.
 
@@ -10,6 +11,8 @@ Premi disponibilità.
 
 ![](images/chiudere-aprire-camere-002.png)
 
-Appare il modulo per cambiare la disponibilità del tuo inventario sul tuo booking engine (sito web) e sul channel manager per l'intervallo delle scelte.
+Appare il modulo per cambiare la disponibilità del tuo inventario sul tuo booking engine (sito web) e sul channel manager per l'intervallo delle date scelte.
 
 ![](images/impostare-prezzi-005.png) 
+
+Alla fine dell'operazione, premi **Salva**.
