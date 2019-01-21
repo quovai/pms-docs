@@ -1,5 +1,4 @@
 
-
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Impostare i prezzi
 
 # Impostare i prezzi
@@ -10,9 +9,11 @@
 
 Appare il tableau per iniziare ad impostare o variare i tuoi prezzi. Per prima cosa, avrai già definito [le tue tariffe](https://quovai.github.io/impostare-le-tariffe-it.html). 
 
-**Esempio**: sul tableau, scegli camera matrimoniale e lo standard rate, doppia clicca sulla data di interesse (con il mouse sinistro) e appare il modulo per l’inserimento (o la eventuale variazione) dei prezzi.
-
 ![](images/impostare-prezzi-002.png)
+
+**Esempio**: sul tableau, scegli camera matrimoniale e lo standard rate, doppia clicca sulla data di interesse (con il mouse sinistro) e appare il modulo per l’inserimento (o per eventualmente variare) dei prezzi.
+
+![](images/impostare-prezzi-002b.png)
 
 **Salve dopo ogni operazione.**
 
@@ -20,7 +21,7 @@ Chiariamo alcune nozioni:
 
 **Da data a data:** inserisci la data d'interesse o un intervallo con l'aiuto di un calendario.
 
-**Prezzo:** qui inserisci il tuo prezzo. Con il '**+**' e il '**-**', puoi rapidamente aggiustare il prezzo. Il prezzo settimanale viene calcolato automaticamente.
+**Prezzo:** inserisci il tuo prezzo. Con il '**+**' e il '**-**', puoi rapidamente aggiustare il prezzo. Il prezzo settimanale viene calcolato automaticamente.
 
 **Variazione:** puoi variare il prezzo di un certo valore fisso o percentuale.
 
