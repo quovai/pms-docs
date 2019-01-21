@@ -27,7 +27,7 @@ Dal menu **Reports > Stampa listino** si accede a una form che ti consente di sc
 
 La stampa mostra:
 
-Il prezzo settimanale (ottenuto moltiplicando il prezzo massimo del giornaliero per 7)
-Una flag di verifica quando all'interno di una settimana ci sono diversi prezzi (per esempio potrebbero esserci dei prezzi mancanti e vale la pena di controllare...)
+Il prezzo settimanale (ottenuto moltiplicando il prezzo massimo del giornaliero per 7).
+Una flag di verifica quando all'interno di una settimana ci sono diversi prezzi (per esempio potrebbero esserci dei prezzi mancanti e vale la pena di controllare...).
  
  
