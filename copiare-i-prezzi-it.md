@@ -1,38 +1,27 @@
 
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Impostare i prezzi
++[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Copiare i prezzi
 
-# Impostare i prezzi
+
+# Copiare i prezzi
+
+Per copiare i prezzi, devi cliccare su **Gestione** poi sotto PREZZI si trova la voce **Copia prezzi**.
+
+![](images/prezzi-001.png)
+
+Appare il modulo per iniziare a copiare i prezzi: 
+
+![](images/prezzi-002.png)
+
+Devi scegliere la tariffa e tipologia di camera **da cui copiare** e poi la tariffa e tipologia di camera **verso cui copiare**:
  
- Clicca su **Gestione** e poi **Listino**.  
+ ![](images/listino-003.png) 
 
-![](images/impostare-prezzi-001.png)
+Poi è possibile modificare i prezzi (**decrementa, nessuna variazione, incrementa**) e variare i prezzi (**percentuale o assoluto (€)**) usando il bottone variazione (+ o -).
 
-Appare il tableau per iniziare ad impostare i tuoi prezzi. Per prima cosa, avrai già definito [le tue tariffe](https://quovai.github.io/impostare-le-tariffe-it.html). 
+![](images/listino-004.png) 
 
-**Esempio**: sul tableau, scegli camera matrimoniale e lo standard rate, doppia clicca sulla data di interesse (con il mouse sinistro) e appare il modulo per l’inserimento dei prezzi.
+Premeremo poi su **Copia prezzi**.
 
-![](images/impostare-prezzi-002.png)
+Viene fuori in basso la dicitura: I prezzi per QUOVAI HOTEL sono stati copiati correttamente.
 
-**Salva dopo ogni operazione.** 
-
-Chiariamo alcune nozioni:
-**Da data a data:** puoi inserire una data d'interesse o un intervallo con l'aiuto di un calendario. 
-
-**Prezzi:** qui inserisci il tuo prezzo. Con il '**+**' e il '**-**', puoi rapidamente aggiustare il prezzo. Il prezzo settimanale viene calcolato automaticamente.
-
-**Variazione:** puoi variare dei prezzi di un certo valore fisso o percentuale usando gli operatori + o -..
-
-![](images/impostare-prezzi-003.png)
-
-**Restrizioni:** come minimum stay, giorno di arrivo o giorno di partenza.  
-
-![](images/impostare-prezzi-004.png)
-
-**Disponibilità:** del tuo inventario sul tuo booking engine (sito web) e sul channel manager.  
-
-![](images/impostare-prezzi-005.png)
-
-**Condizioni:** fa riferimento [alle condizioni](https://quovai.github.io/impostare-le-condizioni-it.html) che hai già definite. 
-
- ![](images/impostare-prezzi-006.png)
- 
+![](images/listino-005.png) 
