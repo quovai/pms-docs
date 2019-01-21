@@ -1,4 +1,5 @@
 
+
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
@@ -16,7 +17,7 @@
 - [La gestione del listino](la-gestione-del-listino-it.md)
 - [Impostare le tariffe](impostare-le-tariffe-it.md)
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
-- [Impostare il prezzo]
+- [Impostare il prezzo](impostera-prezzi-it.md)
 - [Impostare le restrizioni]
 
 - [Interfaccia con il channel manager]
