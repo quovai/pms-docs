@@ -6,10 +6,10 @@
 
 Clicca su **Configurazione** e poi **Agenzie**.  
 
-![](images/chiudere-aprire-camere-001.png)  
+![](images/introdurre-agenzie-001.png)  
 
 Appare il modulo per iniziare ad impostare le agenzie. 
 
-![](images/chiudere-aprire-camere-002.png)  
+![](images/introdurre-agenzie-002.png)  
 
 Alla fine dell'operazione, premi su **salva**.
