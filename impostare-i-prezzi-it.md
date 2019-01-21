@@ -13,6 +13,8 @@ Appare il tableau per iniziare ad impostare i tuoi prezzi. Per prima cosa, avrai
 
 ![](images/impostare-prezzi-002.png)
 
+**Salve dopo ogni operazione.**
+
 Chiariamo alcune nozioni:
 **Da data a data:** inserisci le date d'interesse con l'aiuto di un calendario.
 
