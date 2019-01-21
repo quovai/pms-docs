@@ -1,3 +1,4 @@
+
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Gestire allotment
 
 # Gestire allotment
@@ -14,6 +15,4 @@ I campi di riempire sono: il periodo desiderato dell'allotment (inizio e fine); 
 
 ![](images/allotment-002.png)  
 
-Alla fine dell'operazione, premi su **salva**.
-
-Definizione: **release** - è un numero di giorni _n_ che determina l'arco temporale da oggi ad _n giorni_ in cui l'allotment decade. Significa che il portale non impone l'allotment per i prossimi _n giorni_ dalla data odierna.  
+Definizione: **release** - è un numero di giorni _n_ che determina l'arco temporale da oggi ad _n giorni_ in cui l'allotment decade.  

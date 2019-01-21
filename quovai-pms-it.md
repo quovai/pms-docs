@@ -22,7 +22,7 @@
 - [Impostare (o variare) i prezzi](impostare-i-prezzi-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
-- [Allotment]
+- [Allotment](allotment-it.md)
 
 
 ##  Channel Manager
