@@ -22,6 +22,10 @@ ovviamente avrà un prezzo medio più basso della suite. Usato
 anche come sinonimo di Average Room Rate o Average House Rate,
 accademicamente si riferisce solo al periodo analizzato di un giorno.
 
+
+BAR (Best Available Rate= migliore tariffa disponibile) = È il tasso di non-ristretta bassa disponibile per tutti i bookers. Questo tasso può cambiare più volte alla settimana fino a diverse volte al giorno.
+
+
 Bottom Rate
 Tariffa Minima al di sotto della quale non si vuole vendere la
 tipologia di camera. Prezzo di “emergenza”.
@@ -30,13 +34,19 @@ Cancellabile / Non Cancellabile
 Caratteristica di ogni prenotazione: solo alcune di esse possono
 essere cancellate gratuitamente, per le restanti c’è una penalità da
 pagare.
+
+Channel Management (anche Multi-Channel-Management) = Gestione del canale si riferisce alla politica di distribuzione impiegato di un albergo o di catena. A causa della moltitudine di oggi di canali di vendita, questo metodo di gestione include la gestione dei contenuti e la riconciliazione dei dati in diversi canali di distribuzione, come CRS, GDS e siti web di terze parti. Il cuore del processo è la gestione di tariffe e disponibilità attraverso tutti i canali. Al fine di semplificare la manutenzione dei canali di distribuzione, ci sono strumenti di gestione dei canali, quali: Channel Manager, EZYield, und RateTiger.
+
+https://www.bookingexpert.it/channelmanager.html
+
+
 Channel management
 Le tecniche e i sistemi usati dall’hotel per aggiornare le informazioni, l’inventario delle camere e le tariffe in ogni canale di distribuzione.
 
 Up-selling nel marketing turistico = Vendere al cliente una camera migliore per aumentare il revenue dell hotel.
 
 Cross selling nel marketing turistico = Vendere al cliente servizi accessori alla camera per aumentare il revenue dell hotel.
-
+p.p. nel settore alberghiero = si intende "per persona" relativamente alle tariffe della struttura alberghiera.
 
 Politiche di Cancellazione
 Le condizioni per le quali è possibile cancellare la prenotazioni. Tra
@@ -208,6 +218,9 @@ l'overbooking
 Occupancy
 Indica il numero massimo di persone per la tipologia camera,
 Occupation Index
+
+Occupancy = indica il numero di pernottamenti consentiti. Questo è importante per determinare quante persone sono ammessi in una stanza in base al tipo di biancheria da letto e possono anche essere in collegamento con persone in più cariche.
+
 [Occupazione Hotel] / [Occupazione Competitive Set] x 100
 Se uguale a 100% abbiamo la stessa occupazione (in percentuale)
 dei competitor; se inferiore o superiore abbiamo occupazione
@@ -310,7 +323,7 @@ inizialmente richiesti.
 
 
 
-
+XML (Extensive Markup Language) Un linguaggio di programmazione web e anche sinonimo di una interfaccia web tra un CRS e il sito web Front End (parte visibile) di un IBE, l'XML sono utilizzati dai Channel Manager per comunicare a 2 vie  dall 'hotel ai vari OTAs  i prezzi e la disponibilità di camere ed in senso contrario l'allocamento da parte dei vari OTAs della camere dell'hotel.
 
 
 
