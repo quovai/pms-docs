@@ -61,7 +61,7 @@
 
 
 ## L'area log in 
-- [Modifica password/nuovi utenti/activity log](area-login-it-md)
+- [Modifica password/nuovi utenti/activity log](area-login-it.md)
 
 
 ## GDPR & privacy
