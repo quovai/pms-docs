@@ -1,6 +1,6 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Pausa channel manager
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Funziona di pausa channel manager
 
-# Pausa channel manager
+# Funziona di pausa channel manager
 
 **Quando c'è pochissima disponibilità**, se devi spostare una camera per qualsiasi motivo, c'è il rischio che mentre fai uno spostamento temporaneo i portali "sentano" che si è liberata una stanza e inviino una prenotazione. Si creerebbe un **overbooking**.
 

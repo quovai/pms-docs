@@ -24,7 +24,7 @@
 
 ##  Channel Manager
 - [Interfaccia con il channel manager]
-- [Pausa channel manager]
+- [Funziona di pausa channel manager](pausa-channel-manager-it.md)
 
 
 ## Booking online
