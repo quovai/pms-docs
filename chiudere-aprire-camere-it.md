@@ -1,9 +1,15 @@
-
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Chiudere e aprire le camere
 
-# Chiudere e aprire le camere
+# Chiudere e aprire le camere (disponibilità)
 
-Clicca su **tableau**, evidenzia le date per cui vorresti chiudere le camere (dal giorno al giorno) con il mouse sinistro.  
-Si apre un modulo
+Clicca su **Gestione** e poi **Listino**.
 
-![](images/chiudere-aprire-camere-001.png)  
+![](images/gestione-listino-001.png)
+
+Premi disponibilità. 
+
+![](images/chiudere-aprire-camere-002.png)
+
+Appare il modulo per cambiare la disponibilità del tuo inventario sul tuo booking engine (sito web) e sul channel manager per l'intervallo delle scelte.
+
+![](images/impostare-prezzi-005.png) 

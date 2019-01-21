@@ -7,7 +7,7 @@ Per accedere al listino, clicca su **Gestione** e poi **Listino**.
 
 ![](images/gestione-listino-001.png)
  
-Dopo pochi istanti appare il listino. Sull'asse **orizzontale** ci sono i giorni della settimana/il mese/l'anno e sull'asse **verticale** ci sono le camere/gli appartamenti o gli alloggi da vendere, le tariffe e la disponibilità.
+Appare il listino. Sull'asse **orizzontale** ci sono i giorni della settimana/il mese/l'anno e sull'asse **verticale** ci sono le camere/gli appartamenti o gli alloggi da vendere, le tariffe e la disponibilità.
 
 ![](images/gestione-listino-002.png)
  

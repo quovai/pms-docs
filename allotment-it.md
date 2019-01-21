@@ -15,4 +15,7 @@ I campi di riempire sono: il periodo desiderato dell'allotment (inizio e fine); 
 
 ![](images/allotment-002.png)  
 
-Definizione: **release** - è un numero di giorni _n_ che determina l'arco temporale da oggi ad _n giorni_ in cui l'allotment decade.  
+Alla fine dell'operazione, premi su **salva**.
+
+Definizione 
+**Release** è un numero di giorni _n_ che determina l'arco temporale da oggi ad _n giorni_ in cui l'allotment decade.  
