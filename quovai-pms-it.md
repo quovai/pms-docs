@@ -10,9 +10,6 @@
 
 
 ## Primi passi con Quovai PMS
-
- **N.B**. 30 minuti = **timeout** del PMS dopo il quale la sessione scade ed è necessario **rifare il login**!
- 
 - [Dashboard principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
 - [Menu contestuale delle prenotazioni](menu-contestuale-della-prenotazione-it.md)
@@ -20,7 +17,7 @@
 - [Come chiudere e aprire le camere (cambiare disponibilità)](chiudere-aprire-le-camere-it.md)
 
  
-## Secondi passi: Listino, prezzi, condizioni, restrizioni ...
+## Listino, prezzi, condizioni, restrizioni ...
 - [Gestione del listino (e la stampa)](la-gestione-del-listino-it.md)
 - [Impostare le tariffe](impostare-le-tariffe-it.md)
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
@@ -31,7 +28,7 @@
 - [Gruppi e prenotazioni collegati](gruppi-e-prenotazioni-collegati-it.md)
 
 
-## Terzi passi: Agenzie, allotment 
+## Agenzie, allotment 
 - [Introdurre le agenzie](introdurre-le-agenzie-it.md)
 - [Gestire l'allotment](allotment-it.md)
 
