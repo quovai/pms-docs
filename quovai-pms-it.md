@@ -4,7 +4,8 @@
 # Documentazione Quovai PMS
  
 - [Glossario](glossario-it.md)
- 
+*Raccolta di vocaboli in quanto limitati all'ambiente della struttura ricettiva con una breve spiegazione del significato. Se avete altre necessita, contattaci.*
+
 ## Primi passi con Quovai PMS
 - [La dashboard principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
