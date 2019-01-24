@@ -1,9 +1,9 @@
 
-
-
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
+ 
+ **N.B**. 30 minuti =  **timeout** dopo il quale la sessione scade ed è necessario **rifare il login**
  
 - [Glossario](glossario-it.md)
 
