@@ -3,7 +3,6 @@
 
 # Documentazione Quovai PMS
  
- **N.B**. 30 minuti =  **timeout** dopo il quale la sessione scade ed è necessario **rifare il login**
  
 - [Glossario](glossario-it.md)
 
@@ -11,7 +10,10 @@
 
 
 ## Primi passi con Quovai PMS
-- [La dashboard principale](pannello-principale-it.md)
+
+ **N.B**. 30 minuti = **timeout** del PMS dopo il quale la sessione scade ed è necessario **rifare il login**!
+ 
+- [Dashboard principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
 - [Menu contestuale delle prenotazioni](menu-contestuale-della-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
