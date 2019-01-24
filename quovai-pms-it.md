@@ -1,11 +1,12 @@
 
+
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
  
 - [Glossario](glossario-it.md)
 
-*Raccolta di vocaboli in quanto limitati all'ambiente della struttura ricettiva con una breve spiegazione del significato. Se avete altre necessità, contattaci.*
+*Raccolta di vocaboli in quanto limitati all'ambiente della struttura ricettiva con una breve spiegazione del significato. Se volete che aggiungiamo altri vocaboli, contattaci.*
 
 ## Primi passi con Quovai PMS
 - [La dashboard principale](pannello-principale-it.md)
