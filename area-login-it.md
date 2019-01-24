@@ -3,7 +3,7 @@
 
 # Modifica password/nuovi utenti/activity log
 
-Nell'area log in, puoi trovare e visualizzare la cronologia di navigazione (activity log) ed altre attività come modifica password, lista di utenti ecc. 
+Nell'area log in, puoi trovare (se hai il **ruolo di amministratore**) e visualizzare la cronologia di navigazione (activity log) ed altre attività come modifica password, lista di utenti ecc. 
 
 ![](images/area-login-001.png)
  
