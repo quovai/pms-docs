@@ -2,6 +2,7 @@
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Glossario
 
 # Glossario  
+Raccolta di vocaboli in quanto limitati all'ambiente del turismo con una breve spiegazione del significato. 
 
 **Allotment**  Un contratto tra cliente business (Tour Operator, OTA o azienda) e struttura ricettiva. L’oggetto del contratto, negoziato ogni anno, sono una parte di camere (un contingente o un lotto, da qui la parola ‘allotment’) che la struttura mette a disposizione del cliente. Questi è depositario di quel numero di camere e potrà venderle ai suoi clienti entro un termine. Se non riesce a vendere le camere entro il termine stabilito nel contratto deve rilasciare questo lotto di camere invendute al  gestore della struttura ricettiva, che ne rientra così in possesso per poterle vendere direttamente.
 
