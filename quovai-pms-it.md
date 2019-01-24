@@ -8,9 +8,11 @@
 
 *Raccolta di vocaboli in quanto limitati all'ambiente della struttura ricettiva con una breve spiegazione del significato. Se volete che aggiungiamo altri vocaboli, contattaci.*
 
+
 ## Primi passi con Quovai PMS
 - [La dashboard principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
+- [Menu contestuale delle prenotazioni]menu-contestuale-delle-prenotazioni-it.md 
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
 - [Come chiudere e aprire le camere (cambiare disponibilità)](chiudere-aprire-le-camere-it.md)
 
@@ -20,12 +22,15 @@
 - [Impostare le tariffe](impostare-le-tariffe-it.md)
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
 - [Impostare le restrizioni](impostare-le-restrizioni-it.md)
-- [Introdurre le agenzie](introdurre-le-agenzie-it.md)
 - [Impostare (o variare) i prezzi](impostare-i-prezzi-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
-- [Gestire l'allotment](allotment-it.md)
 - [Gruppi e prenotazioni collegati](gruppi-e-prenotazioni-collegati-it.md)
+
+
+## Terzi passi: Agenzie, allotment 
+- [Introdurre le agenzie](introdurre-le-agenzie-it.md)
+- [Gestire l'allotment](allotment-it.md)
 
 
 ## Booking online
