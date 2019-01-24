@@ -13,7 +13,7 @@
 ## Primi passi con Quovai PMS
 - [Dashboard principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
-- [Menu contestuale delle prenotazioni](menu-contestuale-della-prenotazione-it.md)
+- [Menu contestuale della prenotazione](menu-contestuale-della-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
 - [Come chiudere e aprire le camere (cambiare disponibilità)](chiudere-aprire-le-camere-it.md)
 
