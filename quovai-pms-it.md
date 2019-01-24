@@ -22,6 +22,7 @@
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
 - [Gestire l'allotment](allotment-it.md)
+- [Gruppi e prenotazioni collegati](gruppi-e-prenotazioni-collegati-it.md)
 
 
 ## Booking online
