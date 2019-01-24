@@ -7,4 +7,4 @@ Abbiamo introdotto le **opzioni camera** in cui potete specificare per esempio l
 ![](images/opzioni-camere-001.png)
 
 
-![](images/opzioni-camere-001.png)
+![](images/opzioni-camere-002.png)
