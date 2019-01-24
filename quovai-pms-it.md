@@ -1,4 +1,5 @@
 
+
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
@@ -23,6 +24,7 @@
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
 - [Impostare le restrizioni](impostare-le-restrizioni-it.md)
 - [Impostare (o variare) i prezzi](impostare-i-prezzi-it.md)
+- [Opzioni camere](opzioni-camere-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
 - [Gruppi e prenotazioni collegati](gruppi-e-prenotazioni-collegati-it.md)
@@ -73,7 +75,13 @@
 - [Le novità introdotte nel gestionale con la fatturazione elettronica](novita-fatel-it.md)
 
 
+## Adempimenti PS & ISTAT
+- [Alloggiati, ISTAT/RICESTAT]
+
+
 ## GDPR & privacy
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
 - [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
 - [Accettazione dell'Accordo per il Trattamento dei Dati](accettazione-accordo-trattamento-dati-it)
+
+    
