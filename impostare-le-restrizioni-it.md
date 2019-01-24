@@ -7,7 +7,7 @@
 
 ![](images/impostare-prezzi-001.png)
 
-Appare il tableau per iniziare ad impostare o variare i prezzi, la disponibilità, le restrizioni, le condizioni ecc.
+Appare il tableau per iniziare ad impostare o variare i prezzi, la disponibilità, le restrizioni, le condizioni ecc. Clicca su disponibilità ed appare una finestra da compilare.
 
 Si trova la voce **Restrizioni:** 
 
