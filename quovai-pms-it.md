@@ -19,7 +19,7 @@
 
  
 ## Secondi passi: Listino, prezzi, condizioni, restrizioni ...
-- [La gestione del listino (e la stampa)](la-gestione-del-listino-it.md)
+- [Gestione del listino (e la stampa)](la-gestione-del-listino-it.md)
 - [Impostare le tariffe](impostare-le-tariffe-it.md)
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
 - [Impostare le restrizioni](impostare-le-restrizioni-it.md)
