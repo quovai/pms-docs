@@ -12,7 +12,7 @@
 - [Come chiudere e aprire le camere (cambiare disponibilità)](chiudere-aprire-le-camere-it.md)
 
  
-##  Listino, prezzi, condizioni, restrizioni ...
+## Secondi passi: Listino, prezzi, condizioni, restrizioni ...
 - [La gestione del listino (e la stampa)](la-gestione-del-listino-it.md)
 - [Impostare le tariffe](impostare-le-tariffe-it.md)
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
@@ -24,13 +24,13 @@
 - [Gestire l'allotment](allotment-it.md)
 
 
-##  Channel Manager
-- [Funziona di pausa channel manager](pausa-channel-manager-it.md)
-
-
 ## Booking online
 - [Garanzie e pagamenti](garanzie-e-pagamenti-it.md)
 - [Accedere ai dati della carta di credito](accedere-alla-carta-di-credito-it.md)
+
+
+##  Channel Manager
+- [Funziona di pausa channel manager](pausa-channel-manager-it.md)
 
 
 ## Deduzioni e tasse
@@ -51,6 +51,10 @@
 - [La gestione degli allegati](gestire-allegati-it.md)
 
 
+## L'area log in 
+- [Modifica password/nuovi utenti/activity log](area-login-it.md)
+
+
 ## Fatturazione elettronica
 - [Introduzione alla fatturazione elettronica](fatturazione-elettronica-it.md)
 - [Creare una fattura](creare-una-fattura-it.md)
@@ -58,10 +62,6 @@
 - [Archiviare e registrare le fatture](archivio-fatture-it.md)
 - [La copia di cortesia in PDF](la-copia-di-cortesia-it.md)
 - [Le novità introdotte nel gestionale con la fatturazione elettronica](novita-fatel-it.md)
-
-
-## L'area log in 
-- [Modifica password/nuovi utenti/activity log](area-login-it.md)
 
 
 ## GDPR & privacy
