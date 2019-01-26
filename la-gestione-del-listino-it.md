@@ -23,7 +23,7 @@ Dal menu **Reports > Stampa listino** si accede a una form che ti consente di sc
 
 ![](images/stampa-listino-001.png)
 
-![](images/stampa-gestione-listino-003.png)
+![](images/stampa-listino-002.png)
 
 La stampa mostra:
 
