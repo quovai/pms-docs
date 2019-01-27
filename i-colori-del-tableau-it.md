@@ -4,7 +4,7 @@
   
 Abbiamo vari tipi di colori diversi a seconda dello stato della camera/dell'appartamento:
 
-![](images/personalizzare-prenotazione-001.png)
+![](images/i-colori-del-tableau-001.png)
 
  - **Riservato** è la camera/l'appartamento in attesa di conferma con caparra confirmatoria
  
