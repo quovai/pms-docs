@@ -1,5 +1,4 @@
 
-
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
@@ -13,6 +12,7 @@
 ## Primi passi con Quovai PMS
 - [Dashboard principale](pannello-principale-it.md)
 - [Come creare una prenotazione](come-creare-una-prenotazione-it.md)
+- [I colori del tableau](i-colori-del-tableau-it.md)
 - [Menu contestuale della prenotazione](menu-contestuale-della-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
 - [Come chiudere e aprire le camere (cambiare disponibilità)](chiudere-aprire-le-camere-it.md)
@@ -85,3 +85,5 @@
 - [Accettazione dell'Accordo per il Trattamento dei Dati](accettazione-accordo-trattamento-dati-it)
 
     
+
+ 
