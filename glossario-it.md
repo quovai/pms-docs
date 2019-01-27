@@ -37,8 +37,8 @@ Indice che evidenzia i costi variabili per ogni camera venduta. Si ottiene divid
 **Durata Del Soggiorno**
 Numero di notti passate in un hotel o differenza tra data di arrivo e data di partenza (tra il Check-In e il Check-Out).
 
-**DUS*
-DUS: camera Doppia Uso Singola: è una camera d’albergo per una persona più grande di una singola normale ma più piccola di una camera doppia. Di frequente si indica anche una classica camera doppia (con letto matrimoniale o due letti singoli) usufruibile da una sola persona.
+**DUS**
+Camera Doppia Uso Singola: è una camera d’albergo per una persona più grande di una singola normale ma più piccola di una camera doppia. Di frequente si indica anche una classica camera doppia (con letto matrimoniale o due letti singoli) usufruibile da una sola persona.
 
 **Dynamic Pricing**
 Modello di strategia tesa alla modifica delle tariffe di vendita in  modalità dinamica e funzionale alla domanda attesa. Prevede una variazione tariffaria costante in base a vari elementi
