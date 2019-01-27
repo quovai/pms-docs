@@ -49,6 +49,9 @@ Insieme dei prodotti tariffari singolarmente vendibili da parte dell'hotel. Può
 **Maincourante**
 Registro che riporta gli eventi, le transazioni contabili di una struttura ricettiva oppure l'annotazione riferita alla camera comprensiva di costi e tipologia di pagamento ricevuto.
 
+**No show**
+Un ospite che riserva una camera ma, nel giorno previsto, non si presenta entro l’orario previsto per il check-in, senza aver cancellato, o modificato, la sua prenotazione. 
+
 **Occupancy**
 Indica il numero massimo di persone per la tipologia camera.
 
@@ -58,8 +61,11 @@ Business (camere e/o ricavi) analizzato per un certo periodo dello scorso anno, 
 **Overbooking**
 Capacità virtuale dell’hotel che deve essere aggiunta alla capacità fisica di ogni inventario in modo da poter compensare i no-shows e le cancellazioni dell’ultimo momento. Può essere casuale o previsto dalla politica aziendale.
 
-**Penalità**
+**Penalità (penale)**
 Condizioni, usualmente di tipo temporale, che permettono o meno la cancellazione o modifica della prenotazione. Come penalità a seguito di ciò si potrebbe pagare solo la prima notte, una percentuale sull'ammontare del soggiorno totale, l'intera somma o al contrario nessuna penale può essere applicata (dipende dal tipo di prenotazione iniziale).
+
+**Pre-autorizzazione**
+E’ un blocco temporaneo di un importo specifico su una carta di credito. Questa operazione non genera nessun tipo di movimento bancario sul conto corrente del cliente. La pre-autorizzazione permette quindi di “prenotare” un importo per verificare la validità e la copertura economica della carta di credito rilasciata dal cliente in fase di prenotazione. In questo modo è garantita la disponibilità dell’importo per la conferma di prenotazione definitiva.
 
 **Prenotazione**
 Prenotazione identificata con: un numero di prenotazione, il nome del cliente, le date di arrivo e di partenza, i servizi collegati, ecc. Una prenotazione può rappresentare più camere e/o più notti.
