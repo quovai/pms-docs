@@ -18,7 +18,7 @@ Abbiamo vari tipi di colori diversi a seconda dello stato della camera/dell'appa
 
  - **Prenotazione scaduta** è il giorno di partenza dell'ospite quando la camera/l'appartamento viene liberata/o.
  
- -  **Risorsa bloccata** è il giorno di partenza dell'ospite quando la camera/l'appartamento viene liberata/o.
+ -  **Risorsa bloccata** non si può accedere alla camera/all'appartamento perché è bloccata/o per un altro motivo.
  
  - **Online** significa la camera/l'appartamento è stata/o prenotata/o tramite il booking engine.
  
