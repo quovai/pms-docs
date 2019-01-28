@@ -75,7 +75,7 @@
 - [Le novità introdotte nel gestionale con la fatturazione elettronica](novita-fatel-it.md)
 
 
-## Adempimenti PS & ISTAT
+## PS & ISTAT - adempimenti
 - [Schedine Alloggiati e ISTAT/RICESTAT](schedine-alloggiati-istat-it.md)
 
 
