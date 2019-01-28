@@ -1,10 +1,12 @@
+
  [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Schedine Alloggiati e ISTAT/RICESTAT
 
 #  Schedine Alloggiati e ISTAT/RICESTAT
 
-*L’art. 109 del TULPS stabilisce che i gestori di esercizi alberghieri e di altre strutture ricettive, comprese quelle che forniscono alloggio in tende, roulotte, nonché i proprietari o gestori di case e di appartamenti per vacanze e gli affittacamere, ivi compresi i gestori di strutture di accoglienza non convenzionali, ad eccezione dei rifugi alpini inclusi in apposito elenco istituito dalla regione o dalla provincia autonoma, debbano comunicare giornalmente all’autorità di pubblica sicurezza l’arrivo delle persone alloggiate, mediante consegna di copia della scheda o comunicazione, anche con mezzi informatici, secondo modalità stabilite con decreto del Ministero Interno.*
+*L’art. 109 del TULPS (Testo Unico delle Leggi di Pubblica Sicurezza) stabilisce che i gestori di esercizi alberghieri e di altre strutture ricettive, comprese quelle che forniscono alloggio in tende, roulotte, nonché i proprietari o gestori di case e di appartamenti per vacanze e gli affittacamere, ivi compresi i gestori di strutture di accoglienza non convenzionali, ad eccezione dei rifugi alpini inclusi in apposito elenco istituito dalla regione o dalla provincia autonoma, debbano comunicare giornalmente all’autorità di pubblica sicurezza l’arrivo delle persone alloggiate, mediante consegna di copia della scheda o comunicazione, anche con mezzi informatici, secondo modalità stabilite con decreto del Ministero Interno.*
+https://questure.poliziadistato.it/statics/50/norme-tulps-_--cad-.pdf?lang=it
 
-Prima di inviare le Schedine Alloggiati e le statistiche alle entità responsabili, devi aver compilato le schede di soggiorno per gli ospiti (sotto Tableau > modifica prenotazione > Soggiorni).
+Prima di inviare le Schedine Alloggiati e le statistiche alle autorità, devi aver compilato le schede di soggiorno per gli ospiti (sotto Tableau > modifica prenotazione > Soggiorni).
 
 ![](images/ps-alloggiati-istat-004.png)
 
