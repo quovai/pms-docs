@@ -3,11 +3,11 @@
 
 #  Schedine Alloggiati e ISTAT/RICESTAT
   
-Prima di inviare le Schedine Alloggiati e le statistiche, devi aver compilato le schede per gli ospiti (sotto Tableau > modifica prenotazione > Soggiorni).
+Prima di inviare le Schedine Alloggiati e le statistiche alle entità responsabili, devi aver compilato le schede di soggiorno per gli ospiti (sotto Tableau > modifica prenotazione > Soggiorni).
 
 ![](images/ps-alloggiati-istat-004.png)
 
-Per inviare le Schedine Alloggiati al portale **Alloggiati della Polizia di Stato**, devi cliccare sul bottone PS & ISTAT:
+Per inviare le Schedine Alloggiati al portale **Alloggiati della Polizia di Stato**, devi cliccare su PS & ISTAT:
 
 ![](images/ps-alloggiati-istat-001.png)
 
@@ -15,7 +15,7 @@ Ti propone di default il giorno di oggi ma è anche possibile cambiarlo per elab
 
 ![](images/ps-alloggiati-istat-002.png)
  
-Verrà generato un file **.txt** che può essere caricato sul portale:
+Verrà generato automaticamente un file **.txt** che può essere caricato sul portale:
 
 [https://alloggiatiweb.poliziadistato.it/Alloggiatiweb/](https://alloggiatiweb.poliziadistato.it/Alloggiatiweb/)
 
