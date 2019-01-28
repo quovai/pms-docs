@@ -76,7 +76,7 @@
 
 
 ## Adempimenti PS & ISTAT
-- [Alloggiati, ISTAT/RICESTAT]
+- [Schedine Alloggiati e ISTAT/RICESTAT](schedine-alloggiati-istat-it.md)
 
 
 ## GDPR & privacy
