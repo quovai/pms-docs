@@ -1,4 +1,5 @@
 
+
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
@@ -77,13 +78,9 @@
 
 ## PS & ISTAT - adempimenti
 - [Schedine Alloggiati e ISTAT/RICESTAT](schedine-alloggiati-istat-it.md)
-
+- [Come modificare il codice ISTAT](come.modificare-il-codice-istat-it.md)
 
 ## GDPR & privacy
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
 - [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
 - [Accettazione dell'Accordo per il Trattamento dei Dati](accettazione-accordo-trattamento-dati-it)
-
-    
-
- 
