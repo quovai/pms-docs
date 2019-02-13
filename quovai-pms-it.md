@@ -78,7 +78,7 @@
 
 ## PS & ISTAT - adempimenti
 - [Schedine Alloggiati e ISTAT/RICESTAT](schedine-alloggiati-istat-it.md)
-- [Come modificare il codice ISTAT](come.modificare-il-codice-istat-it.md)
+- [Come modificare il codice ISTAT](come-modificare-il-codice-istat-it.md)
 
 ## GDPR & privacy
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
