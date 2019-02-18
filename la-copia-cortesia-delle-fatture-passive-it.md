@@ -1,4 +1,3 @@
-
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Copia cortesia delle fatture passive in entrata
 
 # Copia cortesia delle fatture passive 
@@ -17,4 +16,4 @@ La visualizzazione, come potrai vedere, è quella di una fattura più "normale".
 
 ![](images/copia-cortesia-fatture-passive-003.png)
 
-Per stamparla o salvarla in PDF, fai **ctrl-p**.
+Per stamparla o salvarla in PDF, utilizza la combinazione tasti **ctrl-p**.
