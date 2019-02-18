@@ -16,4 +16,4 @@ La visualizzazione, come potrai vedere, è quella di una fattura più "normale".
 
 ![](images/copia-cortesia-fatture-passive-003.png)
 
-Per stamparla o salvarla in PDF, utilizza la combinazione tasti **ctrl-p**.
+Per stamparla o salvarla in PDF, utilizza la combinazione di tasti **ctrl-p**.
