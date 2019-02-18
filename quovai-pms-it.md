@@ -1,5 +1,6 @@
 
 
+
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
@@ -73,6 +74,7 @@
 - [La lista delle fatture emesse](la-lista-fatture-emesse-it.md)
 - [Archiviare e registrare le fatture](archivio-fatture-it.md)
 - [La copia di cortesia in PDF](la-copia-di-cortesia-it.md)
+- [La copia di cortesia per le fatture passive](la-copia-cortesia-delle-fatture-passive-it)
 - [Le novità introdotte nel gestionale con la fatturazione elettronica](novita-fatel-it.md)
 
 
@@ -84,3 +86,4 @@
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
 - [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
 - [Accettazione dell'Accordo per il Trattamento dei Dati](accettazione-accordo-trattamento-dati-it)
+
