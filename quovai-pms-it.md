@@ -18,6 +18,7 @@
 - [Menu contestuale della prenotazione](menu-contestuale-della-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
 - [Come chiudere e aprire le camere (cambiare disponibilità)](chiudere-aprire-le-camere-it.md)
+- [Come cambiare un nome sulla scheda cliente](come-cambiare-un-nome-sulla-scheda-cliente-it.md)
 
  
 ## Listino, prezzi, condizioni, restrizioni ...
