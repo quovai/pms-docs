@@ -76,8 +76,8 @@
 - [La lista delle fatture emesse](la-lista-fatture-emesse-it.md)
 - [Archiviare e registrare le fatture](archivio-fatture-it.md)
 - [La copia di cortesia in PDF](la-copia-di-cortesia-it.md)
-- [La copia di cortesia per le fatture passive](la-copia-cortesia-delle-fatture-passive-it)
-- [Come si fa a fatturare con un'aliquota IVA diversa](come-si-fa-a-fatturare-con-aliquota-iva-diversa-it)
+- [La copia di cortesia per le fatture passive](la-copia-cortesia-delle-fatture-passive-it.md)
+- [Come utilizzare un'aliquota IVA diversa](come-utilizzare-un-aliquota-iva-diversa-it.md)
 - [Le novità introdotte nel gestionale con la fatturazione elettronica](novita-fatel-it.md)
 
 
@@ -88,7 +88,7 @@
 ## GDPR & privacy
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
 - [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
-- [Accettazione dell'Accordo per il Trattamento dei Dati](accettazione-accordo-trattamento-dati-it)
+- [Accettazione dell'Accordo per il Trattamento dei Dati](accettazione-accordo-trattamento-dati-it.md)
 
 
 
