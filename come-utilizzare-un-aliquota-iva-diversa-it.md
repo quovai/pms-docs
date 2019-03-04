@@ -7,7 +7,6 @@
 In generale, le fatture relative ai soggiorni presso le strutture ricettive (ed ai servizi collegati) vengono fatturate con un IVA del 10%. 
 
 In alcuni casi particolari, naturalmente, può essere necessario fatturare alcuni servizi con un'aliquota IVA del 22% oppure con aliquota 0 (esente IVA).
-Ecco 
 
 Nel caso si debba solo occasionalmente **modificare l'aliquota IVA di un determinato servizio addebitato** è possibile agire direttamente sull'addebito, modificando l'aliquota IVA.
 
