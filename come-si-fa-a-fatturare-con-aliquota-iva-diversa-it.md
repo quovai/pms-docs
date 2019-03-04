@@ -1,28 +1,36 @@
 
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Come si fa a fatturare con un'aliquota IVA diversa
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Come utilizzare un'aliquota IVA diversa
 
 
-# Come si fa a fatturare con un'aliquota IVA diversa
+# Come utilizzare un'aliquota IVA diversa
 
-**1)** Questa procedura si tratta di una **modifica temporanea solo per una volta**.
+In generale, le fatture relative ai soggiorni presso le strutture ricettive (ed ai servizi collegati) vengono fatturate con un IVA del 10%. 
 
-All'interno dell'addebito (per la prenotazione), si può modificare l'**aliquota dell'IVA:*
+In alcuni casi particolari, naturalmente, può essere necessario fatturare alcuni servizi con un'aliquota IVA del 22% oppure con aliquota 0 (esente IVA).
+Ecco 
 
- ![](images/aliquota-iva-diversa-001.png) 
-  
- ![](images/aliquota-iva-diversa-002.png) 
+Nel caso si debba solo occasionalmente **modificare l'aliquota IVA di un determinato servizio addebitato** è possibile agire direttamente sull'addebito, modificando l'aliquota IVA.
 
- ![](images/aliquota-iva-diversa-003.png) 
+Nella scheda dell'addebito (all'interno della prenotazione), è possibile modificare l'**aliquota IVA:**
 
- ![](images/aliquota-iva-diversa-004.png)    
+Si sceglie "Set VAT rate" (al momento la frase non è tradotta, ci scusiamo): 
 
+![](images/aliquota-iva-diversa-001.png) 
 
-**2)** Se invece si tratta di un addebito **che viene effettuato spesso e sempre al per esempio 22% invece che al 10%**, è possibile modificare la percentuale direttamente sotto:
+Si conferma che si intende modificare l'aliquota IVA:
+
+![](images/aliquota-iva-diversa-003.png) 
+
+Si cambia il valore come necessario:
+
+![](images/aliquota-iva-diversa-004.png)    
+
+Nei cai in cui invece si debba spesso **effettuare un determinato tipo di addebito al 22% invece che al 10%**, è possibile modificare la percentuale direttamente al menu:
 
 **Configurazione -> Servizi**
 
 Scegliendo il servizio da modificare e cambiando l'**aliquota standard**.
 
- ![](images/aliquota-iva-diversa-004.png)    
+![](images/aliquota-iva-diversa-005.png)    
   
 Utilizzando tale servizio negli addebiti l'aliquota sarà al 22%.
