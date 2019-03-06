@@ -1,12 +1,10 @@
 
-
-
-
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
  
- 
+- [Browser preferito](browser-preferito-it.md)
+
 - [Glossario](glossario-it.md)
 
 *Raccolta di vocaboli in quanto limitati all'ambiente della struttura ricettiva con una breve spiegazione del significato. Se volete che aggiungiamo altri vocaboli, contattaci.*
@@ -89,6 +87,10 @@
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
 - [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
 - [Accettazione dell'Accordo per il Trattamento dei Dati](accettazione-accordo-trattamento-dati-it.md)
+
+
+
+   
 
 
 
