@@ -24,7 +24,7 @@ Si cambia il valore come necessario:
 
 ![](images/aliquota-iva-diversa-004.png)    
 
-Nei cai in cui invece si debba spesso **effettuare un determinato tipo di addebito al 22% invece che al 10%**, è possibile modificare la percentuale direttamente al menu:
+Nei casi in cui invece si debba spesso **effettuare un determinato tipo di addebito al 22% invece che al 10%**, è possibile modificare la percentuale direttamente al menu:
 
 **Configurazione -> Servizi**
 
@@ -32,4 +32,4 @@ Scegliendo il servizio da modificare e cambiando l'**aliquota standard**.
 
 ![](images/aliquota-iva-diversa-005.png)    
   
-Utilizzando tale servizio negli addebiti l'aliquota sarà al 22%.
+Utilizzando tale servizio negli addebiti l'aliquota sarà sempre al 22%.
