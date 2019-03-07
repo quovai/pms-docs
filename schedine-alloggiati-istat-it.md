@@ -19,7 +19,7 @@ Ti propone di default il giorno di oggi ma è anche possibile cambiarlo per elab
 
 ![](images/ps-alloggiati-istat-002.png)
  
- VerrÃ  generato automaticamente un file **.txt** che può essere caricato facilmente sul portale:
+ Verrà  generato automaticamente un file **.txt** che può essere caricato facilmente sul portale:
 
 [https://alloggiatiweb.poliziadistato.it/Alloggiatiweb/](https://alloggiatiweb.poliziadistato.it/Alloggiatiweb/)
 
