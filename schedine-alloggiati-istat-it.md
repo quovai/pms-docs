@@ -3,7 +3,11 @@
 
 #  Schedine Alloggiati e ISTAT/RICESTAT
 
+<<<<<<< Updated upstream
 *[Lâ€™art. 109 del TULPS (Testo Unico delle Leggi di Pubblica Sicurezza)](https://questure.poliziadistato.it/statics/50/norme-tulps-_--cad-.pdf?lang=it) stabilisce che i gestori di esercizi alberghieri e di altre strutture ricettive, comprese quelle che forniscono alloggio in tende, roulotte, nonché i proprietari o gestori di case e di appartamenti per vacanze e gli affittacamere, ivi compresi i gestori di strutture di accoglienza non convenzionali, ad eccezione dei rifugi alpini inclusi in apposito elenco istituito dalla regione o dalla provincia autonoma, debbano comunicare giornalmente all'autorità  di pubblica sicurezza l'arrivo delle persone alloggiate, mediante consegna di copia della scheda o comunicazione, anche con mezzi informatici, secondo modalità  stabilite con decreto del Ministero Interno.*
+=======
+*[L'art. 109 del TULPS (Testo Unico delle Leggi di Pubblica Sicurezza)](https://questure.poliziadistato.it/statics/50/norme-tulps-_--cad-.pdf?lang=it) stabilisce che i gestori di esercizi alberghieri e di altre strutture ricettive, comprese quelle che forniscono alloggio in tende, roulotte, nonché i proprietari o gestori di case e di appartamenti per vacanze e gli affittacamere, ivi compresi i gestori di strutture di accoglienza non convenzionali, ad eccezione dei rifugi alpini inclusi in apposito elenco istituito dalla regione o dalla provincia autonoma, debbano comunicare giornalmente all'autorità di pubblica sicurezza l'arrivo delle persone alloggiate, mediante consegna di copia della scheda o comunicazione, anche con mezzi informatici, secondo modalità stabilite con decreto del Ministero Interno.*
+>>>>>>> Stashed changes
 
 Secondo la [Gazzetta Ufficiale](http://www.gazzettaufficiale.it/eli/gu/2013/01/17/14/sg/pdf), pagina 23 (tabella I), **il massimo numero di giorni di permanenza = 30**. 
 
@@ -23,8 +27,7 @@ Ti propone di default il giorno di oggi ma è anche possibile cambiarlo per elab
 
 [https://alloggiatiweb.poliziadistato.it/Alloggiatiweb/](https://alloggiatiweb.poliziadistato.it/Alloggiatiweb/)
 
-*Ricordiamo che il sito della Polizia di Stato accetta lâ€™upload solo degli arrivi **del giorno corrente o
-delle 24 ore precedenti.***
+*Ricordiamo che il sito della Polizia di Stato accetta l'upload solo degli arrivi **del giorno corrente o delle 24 ore precedenti.***
 
 Per inviare i dati ISTAT/RiceStat (piattaforma online per la compilazione dei dati statistici), devi inserire il mese dal...al poi verrà generato un file **.xml** che può essere caricato sul proprio portale regionale.
 
