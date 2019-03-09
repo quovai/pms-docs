@@ -29,7 +29,7 @@
 - [Opzioni camere](opzioni-camere-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
-- [Gruppi e prenotazioni collegati](gruppi-e-prenotazioni-collegati-it.md)
+- [Gruppi e prenotazioni collegate](gruppi-e-prenotazioni-collegate-it.md)
 
 
 ## Agenzie, allotment 
