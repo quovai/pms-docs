@@ -1,23 +1,24 @@
 
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Gruppi e prenotazioni collegati
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Gruppi e prenotazioni collegate
 
-# Gruppi e prenotazioni collegati 
+# Gruppi e prenotazioni collegate 
 
- Clicca su **Gestione** e poi **Tableau**. 
+Clicchiamo su **Gestione** e poi **Tableau**. 
 
-Per esempio, abbiamo delle prenotazioni come nella schermata: 
+Per esempio, se abbiamo delle prenotazioni come nella schermata riportata di seguito: 
 
 ![](images/gruppi-prenotazioni-collegati-001.png)
 
-Clicca su una prenotazione (la chiamiamo Master - #66613) poi la voce **modifica**:
+Clicchiamo su una prenotazione (la chiamiamo Master - #66613) poi selezioniamo la voce **modifica**:
 
 ![](images/gruppi-prenotazioni-collegati-002.png)
 
- Appare il modulo da compilare. Clicca su **Collegato a**... Associamo la prenotazione #666845 alla prenotazione
+Appare la scheda della prenotazione. Clicchiamo su **Collegato a**... Associamo la prenotazione #66845 alla prenotazione che abbiamo chiamato master:
+
 ![](images/gruppi-prenotazioni-collegati-003.png)
   
-Se vogliamo anche associare una terza prenotazione, clicca su prenotazione #66335 e clicca sullo stesso bottone di prima. Si collegano le prenotazioni fra di loro.
+Se vogliamo associare anche una terza prenotazione, clicchiamo sulla prenotazione #66335 e utilizziamo la procedura definita in precedenza. Tutte le prenotazioni sono collegate.
  
 ![](images/gruppi-prenotazioni-collegati-004.png)
  
-Alla fine dell’operazione, premi **Salva**.
+Alla fine dell’operazione, clicchiamo su **Salva**.
