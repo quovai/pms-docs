@@ -1,7 +1,7 @@
 
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Note aggiuntive
 
-# Note aggiuntive - le tue note di testo
+# Note aggiuntive - le vostre note di testo
 
 
 E' disponibile una nuova modalità che vi consente di aggiungere un numero arbitrario di testi lunghi brevi alla prenotazione. Questo può servire per esempio per salvare il contenuto di una mail del cliente insieme alla prenotazione, come sicuramente molte volte vi sarà capitato di voler fare.
