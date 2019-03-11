@@ -2,8 +2,6 @@
 
 # Browser preferito
 
-Raccolta di vocaboli in quanto limitati all'ambiente del turismo con una breve spiegazione del significato.
-
 Per avere un'esperienza migliore con il nostro PMS:
  
 **Browser preferito**: FIREFOX
