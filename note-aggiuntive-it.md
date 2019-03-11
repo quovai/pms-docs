@@ -1,7 +1,7 @@
 
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Note aggiuntive
 
-# Note aggiuntive - le vostre note di testo
+# Note aggiuntive - le tue note di testo
 
 
 E' disponibile una nuova modalità che vi consente di aggiungere un numero arbitrario di testi lunghi brevi alla prenotazione. Questo può servire per esempio per salvare il contenuto di una mail del cliente insieme alla prenotazione, come sicuramente molte volte vi sarà capitato di voler fare.
@@ -18,9 +18,12 @@ In quest'ultimo caso, dopo aver incollato il testo, per esempio di una mail, ved
 
 ![](images/note-aggiuntive-003.png)  
 
+![](images/note-aggiuntive-005.png)  
+
 Cliccando sul "cestino" potrete eliminare la nota (dopo conferma).
 
 **ALLEGATI**
 Per quanto riguarda gli allegati di tipo pdf e immagini, invece, cliccando sul nome del file potrete visualizzare il file completo.
 
 ![](images/note-aggiuntive-004.png)   
+
