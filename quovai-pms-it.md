@@ -30,6 +30,7 @@
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
 - [Gruppi e prenotazioni collegate](gruppi-e-prenotazioni-collegate-it.md)
+- [Note aggiuntive - le tue note di testo](note-aggiuntive-it.md)
 
 
 ## Agenzie, allotment 
