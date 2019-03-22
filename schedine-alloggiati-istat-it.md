@@ -26,11 +26,11 @@ Verrà  generato automaticamente un file **.txt** che potrà essere caricato fac
 
 *Ricordiamo che il sito della Polizia di Stato accetta l'upload solo degli arrivi **del giorno corrente o delle 24 ore precedenti.**
 
-Per generare invece il file da inviare sulla piattaforma ISTAT/RiceStat (piattaforma online per la compilazione dei dati statistici), potrai cliccare sulla voce di menu `Crea file.
+Per generare invece il file da inviare sulla piattaforma ISTAT/RiceStat (piattaforma online per la compilazione dei dati statistici), potrai cliccare sulla voce di menu `Crea file Istat/Ricestat`.
 
 ![](images/ricestat-001.png)
 
-Istat/Ricestat`. Dovrai inserire le date (che di solito vengono pre-compilate all'inizio e alla fine del mese precedente) e cliccare su `Crea file`. Verrà generato un file **.xml** che potrà essere salvato (ad esempio sul desktop o in una cartella dedicata) e caricato sul proprio portale provinciale.
+Dovrai inserire le date (che di solito vengono pre-compilate all'inizio e alla fine del mese precedente) e cliccare su `Crea file`. Verrà generato un file **.xml** che potrà essere salvato (ad esempio sul desktop o in una cartella dedicata) e caricato sul portale provinciale di competenza.
 
 ![](images/ps-alloggiati-istat-003.png)
 
