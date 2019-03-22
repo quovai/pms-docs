@@ -81,6 +81,7 @@
 
 
 ## PS & ISTAT - adempimenti
+- [Inserimento soggiorni](inserimento-soggiorni-it.md)
 - [Schedine Alloggiati e ISTAT/RICESTAT](schedine-alloggiati-istat-it.md)
 - [Come modificare il codice ISTAT](come-modificare-il-codice-istat-it.md)
 
