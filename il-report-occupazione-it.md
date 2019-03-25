@@ -11,7 +11,7 @@ E' possibile accedere al report dal menu Reports > Report occupazione.
 
 Nel modulo di interrogazione potete specificare il periodo di analisi (il periodo per cui volete vedere l'andamento), la data di riferimento (il momento di osservazione, di solito la data odierna) e il periodo di confronto (per esempio lo stesso periodo dell'anno precedente) con la relativa data di riferimento.
 
-Il report può essere visualizzato nella versione di dettaglio (occupazione base) e aggregata per tipologia di camera (occupazione per tipologia). Quest'ultima, probabilmente, è quella che la maggior parte delle strutture troverà più utile.
+Il report può essere visualizzato nella versione di dettaglio (occupazione base) e nella versione aggregata per tipologia di camera (occupazione per tipologia). Quest'ultima, probabilmente, è quella che la maggior parte delle strutture troverà più utile.
 
 ![](images/report-occupazione-002.png)
 

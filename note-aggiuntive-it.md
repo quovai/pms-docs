@@ -14,7 +14,7 @@ All'interno del tab allegati troverete una sezione che vi consente di inviare de
 
 ![](images/note-aggiuntive-002.png)  
   
-In quest'ultimo caso, dopo aver incollato il testo, per esempio di una mail, vedrete che nella lista delle note allegate vedrete una linea per ogni testo allegato. Cliccando sul tasto "+" espanderete la nota e potrete vedere il testo completo. Cliccando sul tasto "-" tornerete a vedere la nota compressa.
+In quest'ultimo caso, dopo aver incollato il testo, per esempio di una mail, vedrete che nella lista delle note allegate troverete una linea per ogni testo allegato. Cliccando sul tasto "+" espanderete la nota e potrete vedere il testo completo. Cliccando sul tasto "-" tornerete a vedere la nota compressa.
 
 ![](images/note-aggiuntive-003.png)  
 

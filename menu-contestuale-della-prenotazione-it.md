@@ -14,7 +14,7 @@ Ci sono le seguenti possibilità:
  - Addebiti  
  - Soggiorno
 
-In basso, c'è una **breve riassunto della prenotazione**: cognome dell'ospite / numero di camera / numero di persone / riassunto delle note
+In basso, c'è un **breve riassunto della prenotazione**: cognome dell'ospite / numero di camera / numero di persone / riassunto delle note
  
  
  

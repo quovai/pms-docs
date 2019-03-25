@@ -35,7 +35,7 @@ Chiariamo alcune nozioni di base per quanto riguarda **Dati generali**:
 
 **Tariffa channel manager:** fa riferimento al sistema che gestisce i canali distributivi online per l’aggiornamento di disponibilità e tariffe. Il sistema opera in tempo reale e simultaneamente a seconda della selezione del cliente sul periodo, sulle camere e sui dati da aggiornare.
 
-**Tariffa derivata:** tariffe che vengono derivate dalla tariffa Master (tariffa dalla quale vengono derivate una o più tariffe). Esempio può essere la tariffa Mezza Pensione, ricavata dalla bed & breakfast, tariffa Master, con un'aggiunta di quota di prezzo (percentuale o in valore numerico). Ovviamente vale viceversa.
+**Tariffa derivata:** tariffe che vengono derivate dalla tariffa Master (tariffa dalla quale vengono derivate una o più tariffe). Esempio può essere la tariffa Mezza Pensione, ricavata dalla bed & breakfast, tariffa Master, con un'aggiunta di quota di prezzo (percentuale o in valore numerico). Ovviamente vale il contrario.
 
 **Vincola all'occupazione**: la tariffa e il prezzo sono da intendersi per l'esatto numeri di componenti nella camera/nell'appartamento. 
 

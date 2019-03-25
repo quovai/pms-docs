@@ -3,11 +3,11 @@
 
 # Chiudere e aprire le camere (disponibilità)
 
-Clicca su **Gestione** e poi **Listino**.
+Cliccate su **Gestione** e poi **Listino**.
 
 ![](images/gestione-listino-001.png)
 
-Premi **disponibilità**. 
+Premete **disponibilità**. 
 
 ![](images/chiudere-aprire-camere-002.png)
 
@@ -15,4 +15,4 @@ Appare il modulo per cambiare la disponibilità del tuo inventario sul tuo booki
 
 ![](images/impostare-prezzi-005.png) 
 
-Alla fine dell'operazione, premi **Salva**. Il cambiamento viene mostrato sul listino. 
+Alla fine dell'operazione, premete **Salva**. Il cambiamento viene mostrato sul listino. 

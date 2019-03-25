@@ -17,7 +17,7 @@ Quovai PMS implementa:
 
 ## Ricevere le fatture elettroniche
 
-Per ricevere le fatture elettroniche è necessario (oltre ad aver aderito al servizio contattando il Supporto Clienti) **comunicare il codice destinatario** di Quovai PMS (vedi più avanti) al proprio Commercialista in modo che tale codice sia registrato nel sito dell'Agenzia dell'Entrate. Qualora siate in possesso di credenziali entratel o altro accesso diretto ai servizi telematici, potrete effettuare direttamente tale registrazione collegandovi al sito dell'Agenzia dedicato a tale scopo: https://ivaservizi.agenziaentrate.gov.it/portale/.
+Per ricevere le fatture elettroniche è necessario (oltre ad aver aderito al servizio contattando il Supporto Clienti) **comunicare il codice destinatario** di Quovai PMS (vedi più avanti) al proprio Commercialista in modo che tale codice sia registrato nel sito dell'Agenzia dell'Entrate. Qualora siate in possesso di credenziali entrate o altro accesso diretto ai servizi telematici, potrete effettuare direttamente tale registrazione collegandovi al sito dell'Agenzia dedicato a tale scopo: https://ivaservizi.agenziaentrate.gov.it/portale/.
 
 Il codice destinatario da comunicare è:
 

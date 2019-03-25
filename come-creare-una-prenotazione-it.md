@@ -1,9 +1,10 @@
 
+
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Come creare una prenotazione
 
 # Come creare una prenotazione
 
-Clicca su **Tableau**. Per creare una prenotazione, devi cliccare sul giorno del **primo pernottamento** (che diventa verde e poi arancione) e sul giorno di **ultimo pernottamento**.
+Clicca su **Tableau**. Per creare una prenotazione, si clicca sul giorno del **primo pernottamento** (che diventa verde e poi arancione) e sul giorno di **ultimo pernottamento**.
 
 Es. per creare una prenotazione da Sabato a Sabato, clicco sul **Sabato di arrivo** e quindi sul **Venerdì precedente alla partenza**.
 
@@ -20,7 +21,7 @@ Nel modulo di prenotazione le date sono precompilate (con le date scelte cliccan
 
 E' **utile** anche compilare i Dati Commerciali (agenzia, segmento mercato, segmento cliente e modo prenotazione) per poter condurre una seria analisi del portafoglio clienti. Questi dati commerciali possono essere impostati come dati obbligatori in fase di prenotazione (vedi immagine).
 
-**Nota bene:** se non conosci il nome del cliente o il cognome, puoi usare in questa fase dati fittizi come ad esempio Cliente Tedesco o Cliente di Milano. Potrai sempre modificare i dati del cliente in seguito.
+**Nota bene:** se non conoscete il nome del cliente o il cognome, potete usare in questa fase dati fittizi come ad esempio Cliente Tedesco o Cliente di Milano. Potrete sempre modificare i dati del cliente in seguito.
 
 Premeremo poi su **Salva**.
 
