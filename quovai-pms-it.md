@@ -26,7 +26,7 @@
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
 - [Impostare le restrizioni](impostare-le-restrizioni-it.md)
 - [Impostare (o variare) i prezzi](impostare-i-prezzi-it.md)
-- [Impostare i servizi](rendere-prenotabili-i-prezzi-it.md)
+- [Impostare i servizi](rendere-prenotabili-i-servizi-it.md)
 - [Opzioni camere](opzioni-camere-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
