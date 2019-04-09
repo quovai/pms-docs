@@ -8,7 +8,7 @@ Per rendere prenotabili sul sistema di booking online i servizi occorre prima ab
 
 ![](images/rendere-prenotabili-i-servizi-001.png)
 
-All'apertura della scheda attivando il checkbox **Prenotazioni servizi** viene attivata la fuzionalità.
+All'apertura della scheda selezionando il checkbox **Prenotazioni servizi** viene attivata la fuzionalità.
 
 ![](images/rendere-prenotabili-i-servizi-002.png)
 
@@ -20,7 +20,7 @@ Ora è necessario definire i servizi che possono essere prenotati. Per fare ques
 
 Aggiungere, per esempio, la categoria "colazione":
 
-![](images/rendere-prenotabili-i-servizi-003.png)
+![](images/rendere-prenotabili-i-servizi-003b.png)
 
 Cliccare su **Salva** per  e poi **Chiudi** per tornare alla lista delle categorie di servizi. 
 
