@@ -8,7 +8,7 @@ Per rendere prenotabili sul sistema di booking online i servizi occorre prima ab
 
 ![](images/rendere-prenotabili-i-servizi-001.png)
 
-All'apertura della scheda selezionando il checkbox **Prenotazioni servizi** viene attivata la fuzionalità.
+All'apertura della scheda selezionando il checkbox **Prenotazioni servizi** viene attivata la funzionalità.
 
 ![](images/rendere-prenotabili-i-servizi-002.png)
 
