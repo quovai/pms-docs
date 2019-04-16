@@ -1,4 +1,5 @@
 
+
 +[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Copiare i prezzi
 
 
@@ -14,14 +15,14 @@ Appare il modulo per iniziare a copiare i prezzi:
 
 Devi scegliere la tariffa e tipologia di camera **da cui copiare** e poi la tariffa e tipologia di camera **verso cui copiare**:
  
- ![](images/listino-003.png) 
+![](images/prezzi-003.png)
 
 Poi è possibile modificare i prezzi (**decrementa, nessuna variazione, incrementa**) e variare i prezzi (**percentuale o assoluto (€)**) usando il bottone variazione (+ o -).
 
-![](images/listino-004.png) 
+![](images/prezzi-004.png)
 
 Premeremo poi su **Copia prezzi**.
 
 Viene fuori in basso la dicitura: I prezzi per QUOVAI HOTEL sono stati copiati correttamente.
 
-![](images/listino-005.png) 
+![](images/prezzi-005.png)
