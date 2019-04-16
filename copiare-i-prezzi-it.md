@@ -5,7 +5,7 @@
 
 # Copiare i prezzi
 
-Per copiare i prezzi, devi cliccare su **Gestione** poi sotto PREZZI si trova la voce **Copia prezzi**.
+Per copiare i prezzi da una tariffa all'altra dentro un periodo definito, devi cliccare su **Gestione** poi sotto PREZZI si trova la voce **Copia prezzi**.
 
 ![](images/prezzi-001.png)
 
