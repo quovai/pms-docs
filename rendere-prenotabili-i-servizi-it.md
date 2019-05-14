@@ -5,11 +5,6 @@
 # # Come rendere prenotabili i servizi extra
 
 
-
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Come rendere prenotabili i servizi extra
-
-# # Come rendere prenotabili i servizi extra
-
 Per rendere prenotabili sul sistema di booking online i servizi occorre prima abilitare la funzionalità per la propria struttura. Per far questo occorre entrare nella sezione **Configurazione** e cliccare su **Strutture**
 
 ![](images/rendere-prenotabili-i-servizi-001.png)  
