@@ -66,8 +66,9 @@
 - [La gestione degli allegati](gestire-allegati-it.md)
 
 
-## L'area log in 
+## L'area log in ed extra 
 - [Modifica password/nuovi utenti/activity log](area-login-it.md)
+- [Accorpamento Clienti Duplicati](accorpamento-clienti-duplicati-it.md)
 
 
 ## Fatturazione elettronica
@@ -86,6 +87,7 @@
 - [Inserimento soggiorni](inserimento-soggiorni-it.md)
 - [Schedine Alloggiati e ISTAT/RICESTAT](schedine-alloggiati-istat-it.md)
 - [Come modificare il codice ISTAT](come-modificare-il-codice-istat-it.md)
+
 
 ## GDPR & privacy
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
