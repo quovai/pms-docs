@@ -13,12 +13,10 @@ Si sceglie il cliente con più dati e lo si marca con il **checkbox** sulla dest
 
   ![](https://quovai.github.io/images/clienti-duplicati-002.png)
   
-Dopodiché, cliccando **Raggruppa** i clienti non selezionati con il checkbox vengono accorpati a quello selezionato con il checkbox. Un messaggio di conferma chiede se si intende proseguire:
-
-Alla fine un altro messaggio ci informa dell'esito dell'operazione.  
+Dopodiché, cliccando **Raggruppa** i clienti non selezionati con il checkbox vengono accorpati a quello selezionato con il checkbox. Un messaggio di conferma chiede se si intende proseguire. Alla fine un altro messaggio ci informa dell'esito dell'operazione.  
   
 E nella lista troviamo un solo cliente.
 
 ![](https://quovai.github.io/images/clienti-duplicati-003.png)
 
-Premendo su Salva confermerete il salvataggio del cliente anche se forse duplicato, cliccando sulla lente avrete la possibilità di esaminare una lista di clienti con cognome o ragione sociale uguale o simile.
+Premendo su **Salva** confermerete il salvataggio del cliente anche se forse duplicato, cliccando sulla lente avrete la possibilità di esaminare una lista di clienti con cognome o ragione sociale uguale o simile.
