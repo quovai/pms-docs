@@ -68,7 +68,7 @@
 
 ## L'area log in ed extra 
 - [Modifica password/nuovi utenti/activity log](area-login-it.md)
-- [Accorpamento Clienti Duplicati](accorpamento-clienti-duplicati-it.md)
+- [Accorpamento clienti duplicati](accorpamento-clienti-duplicati-it.md)
 
 
 ## Fatturazione elettronica
