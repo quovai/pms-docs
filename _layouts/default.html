@@ -34,10 +34,6 @@
       {% endif %}
     </header>
     
-
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-
 <form name="jksearch" action="http://www.google.com/search" method="get" onSubmit="jksitesearch(this)">
 
 <p>Search JavaScript Kit:<br />
@@ -85,6 +81,13 @@ document.getElementById("hiddenquery").value="site:"+domainroot+" "+curobj.qfron
 
 <p style="font: normal 11px Arial">This free script provided by<br />
 <a href="http://www.javascriptkit.com">JavaScript Kit</a></p>
+    
+    
+    
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+
       
       <footer class="site-footer">
         {% if site.github.is_project_page %}
