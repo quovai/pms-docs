@@ -14,6 +14,14 @@
     {% endif %}
     <meta charset="UTF-8">
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script src="tipuesearch/tipuesearch_content.js"></script>
+<link rel="stylesheet" href="tipuesearch/css/tipuesearch.css">
+<script src="tipuesearch/tipuesearch_set.js"></script>
+<script src="tipuesearch/tipuesearch.min.js"></script>	  
+	  
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
@@ -159,10 +167,14 @@
 </head>	  
     <main id="content" class="main-content" role="main">
 	    
-	
+	<form>
+<div class="tipue_search_group">
+<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required><button type="submit" class="tipue_search_button"><div class="tipue_search_icon">&#9906;</div></button>
+</div>
+</form>
 
-<iframe src="https://duckduckgo.com/search.html?site=https://quovai.github.io/quovai-pms-it.html&prefill=Cerca Quovai" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
-	    
+<div id="tipue_search_content"></div>
+
 <link href="//www.findberry.com/search/css/framebox.css" rel="stylesheet" type="text/css" />
 <script src="//www.findberry.com/search/js/jquery.min.js" type="text/javascript"></script>
 <script src="//www.findberry.com/search/js/findberryfx.js" type="text/javascript"></script>
