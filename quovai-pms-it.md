@@ -31,6 +31,7 @@
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
 - [Gruppi e prenotazioni collegate](gruppi-e-prenotazioni-collegate-it.md)
+- [Check-in, check-out e PS di gruppo](check-in-check-out-PS-di-gruppo-it.md)
 - [Note aggiuntive - le vostre note di testo](note-aggiuntive-it.md)
 
 
