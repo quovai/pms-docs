@@ -1,7 +1,6 @@
-
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) /Check-in, check-out e PS di gruppo 
 
 # Check-in, Check-out e PS di Gruppo  
-
   
 E' ora possibile effettuare per le prenotazioni connesse (gruppi) il  **check-in e check-out per tutto il gruppo**. Anche la  **notifica PS**  può essere fatta utilizzando  **un solo capogruppo o capofamiglia**  e includendo ospiti di diverse camere, senza la necessità di inserire i documenti per diversi capogruppo o capofamiglia.  
   
