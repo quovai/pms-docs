@@ -1,6 +1,6 @@
-# Accorpamento clienti duplicati  
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Accorpamento clienti duplicati  
   
-## Accorpamento clienti duplicati  
+# Accorpamento clienti duplicati  
   
   
 E' disponibile una funzionalità che permette di unificare i clienti duplicati e allo stesso tempo riduce il rischio che se ne possano creare di nuovi.  
