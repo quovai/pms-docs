@@ -54,9 +54,37 @@
 - [Come aggiungere la tassa di soggiorno](come-aggiungere-la-tassa-di-soggiorno-it.md)
 
 
+## Fatturazione elettronica
+- [Introduzione alla fatturazione elettronica](fatturazione-elettronica-it.md)
+- [Creare una fattura](creare-una-fattura-it.md)
+- [Creare una nota di credito](creare-una-nota-di-credito-it.md)
+- [La lista delle fatture emesse](la-lista-fatture-emesse-it.md)
+- [Archiviare e registrare le fatture](archivio-fatture-it.md)
+- [La copia di cortesia in PDF](la-copia-di-cortesia-it.md)
+- [La copia di cortesia per le fatture passive](la-copia-cortesia-delle-fatture-passive-it.md)
+- [Come utilizzare un'aliquota IVA diversa](come-utilizzare-un-aliquota-iva-diversa-it.md)
+- [Le novità introdotte nel gestionale con la fatturazione elettronica](novita-fatel-it.md)
+
+
+## GDPR & privacy
+- [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
+- [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
+- [Accettazione dell'Accordo per il Trattamento dei Dati](accettazione-accordo-trattamento-dati-it.md)
+
+
 ## Gruppi
 - [Gruppi e prenotazioni collegate](gruppi-e-prenotazioni-collegate-it.md)
 - [Accorpamento clienti duplicati](accorpamento-clienti-duplicati-it.md)
+
+
+## L'area log in
+- [Modifica password/nuovi utenti/activity log](area-login-it.md)
+
+
+## PS & ISTAT - adempimenti
+- [Inserimento soggiorni](inserimento-soggiorni-it.md)
+- [Schedine Alloggiati e ISTAT/RICESTAT](schedine-alloggiati-istat-it.md)
+- [Come modificare il codice ISTAT](come-modificare-il-codice-istat-it.md)
 
 
 ## Reportistica
@@ -72,32 +100,6 @@
 - [La gestione degli allegati](gestire-allegati-it.md)
 
 
-## L'area log in
-- [Modifica password/nuovi utenti/activity log](area-login-it.md)
-
-
-## Fatturazione elettronica
-- [Introduzione alla fatturazione elettronica](fatturazione-elettronica-it.md)
-- [Creare una fattura](creare-una-fattura-it.md)
-- [Creare una nota di credito](creare-una-nota-di-credito-it.md)
-- [La lista delle fatture emesse](la-lista-fatture-emesse-it.md)
-- [Archiviare e registrare le fatture](archivio-fatture-it.md)
-- [La copia di cortesia in PDF](la-copia-di-cortesia-it.md)
-- [La copia di cortesia per le fatture passive](la-copia-cortesia-delle-fatture-passive-it.md)
-- [Come utilizzare un'aliquota IVA diversa](come-utilizzare-un-aliquota-iva-diversa-it.md)
-- [Le novità introdotte nel gestionale con la fatturazione elettronica](novita-fatel-it.md)
-
-
-## PS & ISTAT - adempimenti
-- [Inserimento soggiorni](inserimento-soggiorni-it.md)
-- [Schedine Alloggiati e ISTAT/RICESTAT](schedine-alloggiati-istat-it.md)
-- [Come modificare il codice ISTAT](come-modificare-il-codice-istat-it.md)
-
-
-## GDPR & privacy
-- [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
-- [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
-- [Accettazione dell'Accordo per il Trattamento dei Dati](accettazione-accordo-trattamento-dati-it.md)
 
 
 
