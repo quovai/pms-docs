@@ -30,7 +30,7 @@
 - [Opzioni camere](opzioni-camere-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
-- [Gruppi e prenotazioni collegate](gruppi-e-prenotazioni-collegate-it.md)
+
 - [Check-in, check-out e PS di gruppo](check-in-check-out-PS-di-gruppo-it.md)
 - [Note aggiuntive - le vostre note di testo](note-aggiuntive-it.md)
 
@@ -54,6 +54,11 @@
 - [Come aggiungere la tassa di soggiorno](come-aggiungere-la-tassa-di-soggiorno-it.md)
 
 
+## Gruppi
+- [Gruppi e prenotazioni collegate](gruppi-e-prenotazioni-collegate-it.md)
+- [Accorpamento clienti duplicati](accorpamento-clienti-duplicati-it.md)
+
+
 ## Reportistica
 - [Come esportare un report in Excel o OpenOffice](come-esportare-un-report-in-openoffice-excel-it.md)
 - [Il report corrispettivi](il-report-corrispettivi-it.md)
@@ -67,9 +72,8 @@
 - [La gestione degli allegati](gestire-allegati-it.md)
 
 
-## L'area log in ed extra 
+## L'area log in
 - [Modifica password/nuovi utenti/activity log](area-login-it.md)
-- [Accorpamento clienti duplicati](accorpamento-clienti-duplicati-it.md)
 
 
 ## Fatturazione elettronica
