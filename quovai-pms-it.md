@@ -49,7 +49,7 @@
 - [Calendario iCcal - come utilizzarlo](calendario-ical-come-utilizzarlo-it.md)
 
 
-##  Channel Manager
+## Channel Manager
 - [Funziona di pausa channel manager](pausa-channel-manager-it.md)
 
 
