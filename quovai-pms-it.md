@@ -45,6 +45,10 @@
 - [Accedere ai dati della carta di credito](accedere-alla-carta-di-credito-it.md)
 
 
+## Calendario iCal
+- [Calendario iCcal - come utilizzarlo](calendario-ical-come-utilizzarlo-it.md)
+
+
 ##  Channel Manager
 - [Funziona di pausa channel manager](pausa-channel-manager-it.md)
 
