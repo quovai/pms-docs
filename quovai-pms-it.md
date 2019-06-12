@@ -17,6 +17,7 @@
 - [Menu contestuale della prenotazione](menu-contestuale-della-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
 - [Come chiudere e aprire le camere (cambiare disponibilità)](chiudere-aprire-le-camere-it.md)
+- [Come bloccare una camera/un appartamento rapidamente](blocco-camera-it.md)
 - [Come cambiare un nome sulla scheda cliente](come-cambiare-un-nome-sulla-scheda-cliente-it.md)
 
  
@@ -30,7 +31,6 @@
 - [Opzioni camere](opzioni-camere-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
-
 - [Check-in, check-out e PS di gruppo](check-in-check-out-PS-di-gruppo-it.md)
 - [Note aggiuntive - le vostre note di testo](note-aggiuntive-it.md)
 
