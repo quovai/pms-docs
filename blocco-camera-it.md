@@ -22,8 +22,11 @@
 - Aprire il Tableau per inserire la prenotazione "Creazione di una prenotazione".  
 
 - Cliccare su **Blocco** e la camera/l'appartamento viene bloccata/o.
+
  ![](images/blocco-camera-004.png)
+ 
  ![](images/blocco-camera-005.png)
+ 
  ![](images/blocco-camera-006.png)
 
  
