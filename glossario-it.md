@@ -63,7 +63,7 @@ Una misura utilizzata quando si guarda avanti per vedere in che modo l'occupazio
 %OTB = occupazione in % / Rev € OTB = ammontare in euro
 
 **On the Book Last Year – OTBLY**
-Business (camere e/o ricavi) analizzato per un certo periodo dello scorso anno, a una certa data dello scorso anno. Esempio: prenotazioni per il mese di maggio 2017, analizzate il giorno 20 aprile 2018.
+Business (camere e/o ricavi) analizzato per un certo periodo dello scorso anno, a una certa data dello scorso anno. Esempio: prenotazioni per il mese di maggio 2018, analizzate il giorno 20 aprile 2019.
 
 **Overbooking**
 Capacità virtuale dell’hotel che deve essere aggiunta alla capacità fisica di ogni inventario in modo da poter compensare i no-shows e le cancellazioni dell’ultimo momento. Può essere casuale o previsto dalla politica aziendale.
