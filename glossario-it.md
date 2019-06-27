@@ -60,7 +60,7 @@ Indica il numero massimo di persone per la tipologia camera.
 
 **On the Books**
 Una misura utilizzata quando si guarda avanti per vedere in che modo l'occupazione o le entrate sono prenotate in un hotel. L'ammontare che si trova sui libri cambierà con l'aumentare delle prenotazioni e delle cancellazioni fino a quando la data o il periodo non saranno arrivati, quindi è una misura di un momento nel tempo.
-%OTB = occupazione in % / Rev € OTB = ammontare in euro
+%OTB = occupazione in %.  /  Rev € OTB = ammontare in euro.
 
 **On the Book Last Year – OTBLY**
 Business (camere e/o ricavi) analizzato per un certo periodo dello scorso anno, a una certa data dello scorso anno. Esempio: prenotazioni per il mese di maggio 2018, analizzate il giorno 20 aprile 2019.
