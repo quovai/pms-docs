@@ -58,6 +58,9 @@ Un ospite che riserva una camera ma, nel giorno previsto, non si presenta entro 
 **Occupancy**
 Indica il numero massimo di persone per la tipologia camera.
 
+**On the Books**
+Una misura utilizzata quando si guarda avanti per vedere in che modo l'occupazione o le entrate sono prenotate in un hotel. L'ammontare che si trova sui libri cambierà con l'aumentare delle prenotazioni e delle cancellazioni fino a quando la data o il periodo non saranno arrivati, quindi è una misura di un momento nel tempo.
+
 **On the Book Last Year – OTBLY**
 Business (camere e/o ricavi) analizzato per un certo periodo dello scorso anno, a una certa data dello scorso anno. Esempio: prenotazioni per il mese di maggio 2017, analizzate il giorno 20 aprile 2018.
 
