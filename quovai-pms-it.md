@@ -31,9 +31,8 @@
 - [Opzioni camere](opzioni-camere-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
-- [Check-in, check-out e PS di gruppo](check-in-check-out-PS-di-gruppo-it.md)
 - [Note aggiuntive - le vostre note di testo](note-aggiuntive-it.md)
-
+- [Camere comunicanti](camere-comunicanti-it.md)
 
 ## Agenzie, allotment 
 - [Introdurre le agenzie](introdurre-le-agenzie-it.md)
@@ -79,6 +78,7 @@
 ## Gruppi
 - [Gruppi e prenotazioni collegate](gruppi-e-prenotazioni-collegate-it.md)
 - [Accorpamento clienti duplicati](accorpamento-clienti-duplicati-it.md)
+- [Check-in, check-out e PS di gruppo](check-in-check-out-PS-di-gruppo-it.md)
 
 
 ## L'area log in
@@ -89,6 +89,7 @@
 - [Inserimento soggiorni](inserimento-soggiorni-it.md)
 - [Schedine Alloggiati e ISTAT/RICESTAT](schedine-alloggiati-istat-it.md)
 - [Come modificare il codice ISTAT](come-modificare-il-codice-istat-it.md)
+- [Check-in, check-out e PS di gruppo](check-in-check-out-PS-di-gruppo-it.md)
 
 
 ## Reportistica
