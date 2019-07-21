@@ -59,7 +59,8 @@
 
 ## Fatturazione elettronica
 - [Introduzione alla fatturazione elettronica](fatturazione-elettronica-it.md)
-- [Creare una fattura](creare-una-fattura-it.md)
+- [Creare una fattura a storno parziale](creare-una-fattura-parziale-it.md)
+- [Creare una fattura a storno totale](creare-una-fattura-totale-it.md)
 - [Creare una nota di credito](creare-una-nota-di-credito-it.md)
 - [La lista delle fatture emesse](la-lista-fatture-emesse-it.md)
 - [Archiviare e registrare le fatture](archivio-fatture-it.md)
