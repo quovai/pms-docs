@@ -6,7 +6,7 @@ Se si deve stornare "completamente" una fattura (cioè fare una nota di credito 
 
 1) Entrare nella prenotazione (si può arrivare anche facendo doppio click sulla fattura sbagliata)  
 2) Andare nella sezione addebiti  
-3) De-selezionare "mostra solo non documentati"  
+3) Selezionare "Mostra addebiti già fatturati"  
 4) Selezionare tutti gli addebiti  
 5) Cliccare su emissione documenti  
 6) Selezionare nota di credito come tipologia  
