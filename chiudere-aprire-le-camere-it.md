@@ -1,7 +1,7 @@
 
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Chiudere e aprire delle camere (cambiare disponibilità)
 
-# Chiudere e aprire le camere (disponibilità)
+# Chiudere e aprire delle camere (disponibilità)
 
 Cliccate su **Gestione** e poi **Listino**.
 
