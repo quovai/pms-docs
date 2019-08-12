@@ -16,7 +16,7 @@
 - [I colori del tableau](i-colori-del-tableau-it.md)
 - [Menu contestuale della prenotazione](menu-contestuale-della-prenotazione-it.md)
 - [Come spostare una prenotazione](spostare-una-prenotazione-it.md)
-- [Come chiudere e aprire le camere (cambiare disponibilità)](chiudere-aprire-le-camere-it.md)
+- [Come chiudere e aprire delle camere (cambiare disponibilità)](chiudere-aprire-le-camere-it.md)
 - [Come bloccare una camera/un appartamento rapidamente](blocco-camera-it.md)
 - [Come cambiare un nome sulla scheda cliente](come-cambiare-un-nome-sulla-scheda-cliente-it.md)
 
