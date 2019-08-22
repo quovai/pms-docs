@@ -1,4 +1,5 @@
 
+
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Calendario iCal - come utilizzarlo
 
 # **Calendario iCal - come utilizzarlo**
@@ -32,3 +33,6 @@ I portali più conosciuti che possono essere aggiornati tramite iCal sono **Home
 [https://www.tripz.com/help/articles/getting-your-ical-link-from-tripadvisorflipkey/](https://www.tripz.com/help/articles/getting-your-ical-link-from-tripadvisorflipkey/)  
 [https://hilfe.fewo-direkt.de/articles/Wie-synchronisiere-ich-meinen-FeWo-direkt-Kalender-mit-einem-anderen-Kalender](https://hilfe.fewo-direkt.de/articles/Wie-synchronisiere-ich-meinen-FeWo-direkt-Kalender-mit-einem-anderen-Kalender)  
 [https://www.agriturismo.it/it/extra/come-sincronizzare-il-calendario-di-agriturismo-it-con-quello-di-altri-portali-1213](https://www.agriturismo.it/it/extra/come-sincronizzare-il-calendario-di-agriturismo-it-con-quello-di-altri-portali-1213)
+
+VIDEO su **Come creare un iCal per inviare la disponibilità ai portali**  
+[https://youtu.be/NxLciNKSyNE](https://youtu.be/NxLciNKSyNE)
