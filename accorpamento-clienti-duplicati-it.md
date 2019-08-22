@@ -20,3 +20,5 @@ E nella lista troviamo un solo cliente.
 ![](https://quovai.github.io/images/clienti-duplicati-003.png)
 
 Premendo su **Salva** confermerete il salvataggio del cliente anche se forse duplicato, cliccando sulla lente avrete la possibilità di esaminare una lista di clienti con cognome o ragione sociale uguale o simile.
+
+VIDEO: [https://youtu.be/V29i4BYZBK8](https://youtu.be/V29i4BYZBK8)
