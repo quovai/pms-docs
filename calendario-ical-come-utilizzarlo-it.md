@@ -6,7 +6,7 @@
 
 Nel caso in cui un portale online non offra un’interfaccia Channel Manager a 2 vie è possibile ricorrere all’iCal per **sincronizzare la vostra disponibilità.**
 
-I portali più conosciuti che possono essere aggiornati tramite iCal sono **Homeaway, FlipKey, FeWo-direkt ed ultimamente Agriturismo.it ecc.**
+I portali più conosciuti che possono essere aggiornati tramite iCal sono **Homeaway, FlipKey, FeWo-direkt ed ultimamente Agriturismo.it ecc.** I nostri link iCal danno la disponibilità in tempo reale, i tempi di aggiornamento invece dipendono da ogni quanto il portale li scarica (per esempio agriturismo.it ogni due ore).
 
 **Occorre:**  
   
