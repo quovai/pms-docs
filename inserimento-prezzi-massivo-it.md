@@ -1,5 +1,5 @@
 
-Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Inserimento prezzi massivo**
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Inserimento prezzi massivo**
 
 # **Inserimento prezzi massivo**
 
