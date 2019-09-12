@@ -2,7 +2,7 @@
 [Indice](index.md) / Quovai PMS
 
 # Documentazione Quovai PMS
- 
+
 - [Browser preferito](browser-preferito-it.md)
 
 - [Glossario](glossario-it.md)
@@ -46,7 +46,7 @@
 - [Garanzie e pagamenti](garanzie-e-pagamenti-it.md)
 - [Accedere ai dati della carta di credito](accedere-alla-carta-di-credito-it.md)
 - [Come funziona PSD2 e SCA con Quovai?](psd2-sca-adempimenti-it.md)
-- [Aprire un conto STRIPE](aprire-un-conto-Stripe-it.md)
+- [Aprire un conto STRIPE](aprire-un-conto-stripe-it.md)
 
 
 ## Calendario iCal
