@@ -24,7 +24,6 @@
  
 ## Listino, prezzi, condizioni, restrizioni, servizi ...
 - [Gestione del listino (e la stampa)](la-gestione-del-listino-it.md)
-- [Inserimento prezzi massivo](inserimento-prezzi-massivo-it.md)
 - [Impostare le tariffe](impostare-le-tariffe-it.md)
 - [Impostare le condizioni](impostare-le-condizioni-it.md)
 - [Impostare le restrizioni](impostare-le-restrizioni-it.md)
@@ -33,6 +32,7 @@
 - [Opzioni camere](opzioni-camere-it.md)
 - [Copiare i prezzi](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
+- [Inserimento prezzi massivo](inserimento-prezzi-massivo-it.md)
 - [Note aggiuntive - le vostre note di testo](note-aggiuntive-it.md)
 - [Camere comunicanti](camere-comunicanti-it.md)
 
