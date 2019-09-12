@@ -45,6 +45,7 @@
 ## Booking online
 - [Garanzie e pagamenti](garanzie-e-pagamenti-it.md)
 - [Accedere ai dati della carta di credito](accedere-alla-carta-di-credito-it.md)
+- [Come funziona PSD2 e SCA con Quovai](psd2-sca-adempimenti-it.md)
 
 
 ## Calendario iCal
