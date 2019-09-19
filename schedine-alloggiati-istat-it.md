@@ -23,9 +23,9 @@ Viene proposto, come default, la data odierna che può essere cambiata per elabo
 Verrà  generato automaticamente un file **.txt** che potrà essere caricato facilmente sul portale **Alloggiati**:
 
 [https://alloggiatiweb.poliziadistato.it/Alloggiatiweb/](https://alloggiatiweb.poliziadistato.it/Alloggiatiweb/)
-
-*Ricordiamo che il sito della Polizia di Stato accetta l'upload solo degli arrivi **del giorno corrente o delle 24 ore precedenti.**
-
+ 
+*Le strutture ricettive, ENTRO LE 24 ORE successive all'arrivo, devono comunicare alle questure territorialmente competenti, ESCLUSIVAMENTE per il tramite del Servizio Alloggiati, le generalità delle persone alloggiate. Se il soggiorno è inferiore alle 24 ore le generalità vanno inviate all'arrivo stesso.
+ 
 Per generare invece il file da inviare sulla piattaforma ISTAT/RiceStat (piattaforma online per la compilazione dei dati statistici), potrai cliccare sulla voce di menu `Crea file Istat/Ricestat`.
 
 ![](images/ricestat-001.png)
