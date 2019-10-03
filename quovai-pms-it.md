@@ -5,9 +5,11 @@
 
 - [Browser preferito](browser-preferito-it.md)
 
-- [Glossario](glossario-it.md)
+- [Video Tutorial](video-tutorial-it.md)
 
+- [Glossario](glossario-it.md)
 *Raccolta di vocaboli in quanto limitati all'ambiente della struttura ricettiva con una breve spiegazione del significato. Se volete che aggiungiamo altri vocaboli, contattaci.*
+
 
 
 ## Primi passi con Quovai PMS
