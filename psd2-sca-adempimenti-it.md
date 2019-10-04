@@ -35,6 +35,6 @@ Certo, ecco alcune transazioni che non hanno l’obbligo di usare la SCA:
 • **Bonifici bancari.**
 
 **Praticamente cosa dovrete fare?**  
-a) Le strutture ricettive che **vorranno** usare la nuova modalità nel modo più flessibile dovranno aprire con noi un utenza **Stripe** (se non ce l'hanno già). E' gratis ed è molto utile. Facciamo praticamente tutto noi, dovrete solo fornirci alcuni dati. L'unico costo di Stripe [2019 è la commissione di 1,4% + 0,26 a transazione in caso di utilizzo della carta di credito a garanzia.
+a) Le strutture ricettive che **vorranno** usare la nuova modalità nel modo più flessibile dovranno aprire con noi un utenza **Stripe** (se non ce l'hanno già). E' gratis ed è molto utile. Facciamo praticamente tutto noi, dovrete solo fornirci alcuni dati. L'unico costo di Stripe è la commissione di 1,4% + 0,26 a transazione in caso di utilizzo della carta di credito a garanzia [costi 2019].
 
 b) Per le strutture che **non vorranno** aprire un'utenza Stripe, Quovai utilizzerà la propria, salvando la carta di credito del cliente sul proprio conto Stripe. In caso di no-show o di penale, Quovai addebiterà la carta di credito del cliente, retrocedendo la somma dovuta alla struttura meno un piccolo costo amministrativo Quovai.
