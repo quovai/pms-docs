@@ -10,20 +10,20 @@ Nel caso in cui un portale online non offra un’interfaccia Channel Manager a 2
 I portali più conosciuti che possono essere aggiornati tramite iCal sono **Homeaway, FlipKey, FeWo-direkt ed ultimamente Agriturismo.it ecc.** I nostri link iCal danno la disponibilità in tempo reale, i tempi di aggiornamento invece dipendono da ogni quanto il portale li scarica (per esempio agriturismo.it ogni due ore).
 
 **Occorre:**  
-  
-1. Andare in Configurazione-> iCal
+
+ - Andare in Configurazione-> iCal
 
 ![](images/iCal-001.png)
 
-2. Sotto Lista iCal / crea nuovo  
- 
-![](images/iCal-002.png)
-  
-3. Riempire i campi (scelta fra tipologia o camera/appartamento). Il campo "nome" viene generato automaticamente.
+ - Sotto Lista iCal / crea nuovo  
 
-![](images/iCal-003.png)
-  
-4. Inserire il link nel portale scelto. All'interno del portale è importante assegnare **un nome al calendario** in modo da poterlo riconoscere facilmente.
+ ![](images/iCal-002.png)    
+
+ - Riempire i campi (scelta fra tipologia o camera/appartamento). Il nome viene generato automaticamente.
+
+![](images/iCal-003.png)    
+
+ - Inserire il link nel portale scelto. All'interno del portale è importante assegnare **un nome al calendario** in modo da poterlo riconoscere facilmente.
   
 **Alcune guide per sincronizzare i calendari:**  
 [https://aiuto.homeaway.it/articles/Come-sincronizzo-il-mio-calendario-di-HomeAway-con-un-altro-calendario](https://aiuto.homeaway.it/articles/Come-sincronizzo-il-mio-calendario-di-HomeAway-con-un-altro-calendario)  
@@ -34,6 +34,8 @@ I portali più conosciuti che possono essere aggiornati tramite iCal sono **Home
 VIDEO su **Come creare un iCal per inviare la disponibilità ai portali**  
 [https://youtu.be/NxLciNKSyNE](https://youtu.be/NxLciNKSyNE)
 
+
+  
 
   
   
