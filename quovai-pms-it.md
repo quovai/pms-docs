@@ -52,7 +52,7 @@
 
 
 ## Calendario iCal
-- [Calendario iCcal - come utilizzarlo](calendario-ical-come-utilizzarlo-it.md)
+- [Calendario iCal - come utilizzarlo](calendario-ical-come-utilizzarlo-it.md)
 
 
 ## Channel Manager
