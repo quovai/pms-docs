@@ -1,5 +1,6 @@
 
 
+
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Calendario iCal - come utilizzarlo
 
 # **Calendario iCal - come utilizzarlo**
@@ -10,23 +11,19 @@ I portali più conosciuti che possono essere aggiornati tramite iCal sono **Home
 
 **Occorre:**  
   
-1. Andare in Configurazione->Tariffe
+1. Andare in Configurazione-> iCal
 
 ![](images/iCal-001.png)
 
-2. Entrare in modifica della tariffa. 
+2. Sotto Lista iCal / crea nuovo  
  
 ![](images/iCal-002.png)
   
-3. Impostare "**iCal abilitato**" e salvare.
+3. Riempire i campi (scelta fra tipologia o camera/appartamento). Il campo "nome" viene generato automaticamente.
 
 ![](images/iCal-003.png)
-
-4. Cliccare sul link iCal (vedere immagine sotto) con il mouse destro e copiare l'indirizzo che potrete inserire nei portali che ve lo richiedono.
-
-![](images/iCal-004.png)
   
-5. Inserire il link nel portale scelto. All'interno del portale è importante assegnare **un nome al calendario** in modo da poterlo riconoscere facilmente.
+4. Inserire il link nel portale scelto. All'interno del portale è importante assegnare **un nome al calendario** in modo da poterlo riconoscere facilmente.
   
 **Alcune guide per sincronizzare i calendari:**  
 [https://aiuto.homeaway.it/articles/Come-sincronizzo-il-mio-calendario-di-HomeAway-con-un-altro-calendario](https://aiuto.homeaway.it/articles/Come-sincronizzo-il-mio-calendario-di-HomeAway-con-un-altro-calendario)  
@@ -36,3 +33,7 @@ I portali più conosciuti che possono essere aggiornati tramite iCal sono **Home
 
 VIDEO su **Come creare un iCal per inviare la disponibilità ai portali**  
 [https://youtu.be/NxLciNKSyNE](https://youtu.be/NxLciNKSyNE)
+
+
+  
+  
