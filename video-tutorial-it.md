@@ -11,6 +11,8 @@ Home page su YouTube
   
  - [Inserire i prezzi nel listino](https://www.youtube.com/watch?v=NmDCiSjCJ_8)
  - [Inserimento massivo dei prezzi con stagioni](https://www.youtube.com/channel/UCIbRFmrL-sxPil0pUSKbwAw/featured)
+ - [Tariffe derivate](http://youtu.be/FSBspw8zAWs?hd=1)
  - [Rendere prenotabili i servizi extra tramite Quovai PMS](https://www.youtube.com/watch?v=WoaVH7Ps69o) 
  - [Raggruppare i clienti duplicati](https://www.youtube.com/watch?v=V29i4BYZBK8)
  - [L'iCal, a cosa serve e come crearne uno con Quovai](https://www.youtube.com/watch?v=NxLciNKSyNE)
+ 
