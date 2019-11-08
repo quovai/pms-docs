@@ -9,7 +9,7 @@ Quando ci si rende conto di avere più clienti per la stessa persona, si può an
 
 ![](https://quovai.github.io/images/clienti-duplicati-001.png)
 
-Si sceglie il cliente con più dati e lo si marca con il **checkbox** sulla destra come quello su cui convoglieranno le prenotazioni, i documenti e i soggiorni di tutti gli altri clienti.  
+Si evidenzia tutti i clienti pertinenti e poi si sceglie il cliente con più dati marcandosi con il **checkbox** sulla destra come quello su cui convoglieranno le prenotazioni, i documenti e i soggiorni di tutti gli altri clienti. 
 
   ![](https://quovai.github.io/images/clienti-duplicati-002.png)
   
