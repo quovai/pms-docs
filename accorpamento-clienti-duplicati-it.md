@@ -13,7 +13,7 @@ Si evidenzia tutti i clienti pertinenti e poi si sceglie il cliente con più dat
 
   ![](https://quovai.github.io/images/clienti-duplicati-002.png)
   
-Dopodiché, cliccando **Raggruppa** i clienti non selezionati con il checkbox vengono accorpati a quello selezionato con il checkbox. Un messaggio di conferma chiede se si intende proseguire. Alla fine un altro messaggio ci informa dell'esito dell'operazione.  
+Dopodiché, cliccando **Raggruppa** i clienti non selezionati con il checkbox vengono accorpati a quello selezionato con il checkbox. Un messaggio di conferma chiede se si intende proseguire. Alla fine un altro messaggio ci informa dell'esito dell'operazione. Poi si preme **Aggiorna**.  
   
 E nella lista troviamo un solo cliente.
 
