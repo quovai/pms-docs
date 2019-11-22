@@ -5,8 +5,8 @@
 # I nostri video tutorial
   
 Home page su YouTube
-[https://www.youtube.com/channel/UCIbRFmrL-sxPil0pUSKbwAw](https://www.youtube.com/channel/UCIbRFmrL-sxPil0pUSKbwAw)
-  
+[https://www.youtube.com/channel/UCIbRFmrL-sxPil0pUSKbwAw](https://www.youtube.com/channel/UCIbRFmrL-sxPil0pUSKbwAw/videos)
+
   **Argomenti toccati**
 	
  - CLIENTI DUPLICATI: [Raggruppare i clienti duplicati](https://www.youtube.com/watch?v=V29i4BYZBK8)
