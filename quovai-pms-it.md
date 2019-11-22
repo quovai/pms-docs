@@ -108,6 +108,7 @@
 
 ## Template, comunicazioni email ed allegati
 - [I modelli per le comunicazioni della struttura](i-modelli-per-le-comunicazioni-della-struttura-it.md)
+- [Possibilità di modificare il testo e il layout dei messaggi](messaggi-meglio-it.md)
 - [Variabili disponibili per i template email](variabili-disponibili-per-i-template-email-it.md)
 - [Inviare email in automatico dal PMS](inviare-email-in-automatico-dal-pms-it.md)
 - [La gestione degli allegati](gestire-allegati-it.md)
