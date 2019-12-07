@@ -1,7 +1,7 @@
 
 [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Apertura e chiusura veloce di un'intero periodo della struttura  
 
-# ** Apertura e chiusura veloce di un'intero periodo della struttura  **
+# Apertura e chiusura veloce di un'intero periodo della struttura
   
 1. Navigare sino al listino (Menu Gestione -> Listino oppure tasto rosso "Listino" da home page)  
 2. Portarsi sulla data che interessa (es. 20 giugno 2020)  
