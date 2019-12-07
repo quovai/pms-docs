@@ -3,10 +3,6 @@
 
 # La lista fatture emesse
 
-Selezionando [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / La lista fatture emesse
-
-# La lista fatture emesse
-
 Selezionando **Documenti -> fatture emesse** si arriva alla lista delle fatture emesse.
 
 Per ogni documento è possibile vedere se la fattura è ancora da inviare e quanto tempo (in secondi) manca prima che il sistema la invii al sistema di interscambio:
