@@ -56,7 +56,7 @@ Ora l'unica modalità possibile sarà:
 - **Esente IVA      5€**
 						 
 
-Le fatture e ricevute del passato continueranno ad evere la vecchia dicitura e modalità di presentazione.
+Le fatture e ricevute del passato continueranno ad avere la vecchia dicitura e modalità di presentazione.
 
 
 						 
