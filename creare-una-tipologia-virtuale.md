@@ -1,3 +1,5 @@
+[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Creare una tipologia virtuale**
+
 # Creare una tipologia virtuale
 
 Una tipologia virtuale è una tipologia di camera che non ha camere assegnate sul tableau, ma che viene associata ad alcune camere (spesso una sola) per poterle vendere separatamente sul *booking engine* o sui canali.

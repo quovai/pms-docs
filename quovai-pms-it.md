@@ -37,6 +37,7 @@
 - [Inserimento prezzi massivo](inserimento-prezzi-massivo-it.md)
 - [Note aggiuntive - le vostre note di testo](note-aggiuntive-it.md)
 - [Camere comunicanti](camere-comunicanti-it.md)
+- [Creare una tipologia virtuale](creare-una-tipologia-virtuale.md)
 
 
 ## Agenzie, allotment 
