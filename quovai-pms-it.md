@@ -43,7 +43,7 @@
 ## Agenzie, allotment 
 - [Introdurre le agenzie](introdurre-le-agenzie-it.md)
 - [Gestire l'allotment](allotment-it.md)
-- [Le ricevute a zero per prenotazioni di agenzia] (la-ricevuta-a-zero-con-e-senza-documento-precedente-it.md)
+- [Le ricevute a zero per prenotazioni di agenzia](la-ricevuta-a-zero-con-e-senza-documento-precedente-it.md)
 
 
 ## Booking online
