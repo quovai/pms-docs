@@ -9,14 +9,14 @@ All’interno dei template messi a disposizione per inviare email ai propri clie
 | Variabile                        | **Descrizione**                                              | **Esempio**                                                  |
 | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **## RESERVATION ID ##**         | Il codice della prenotazione                                 | 31345                                                        |
-| **## CUSTOMER FULL ##**          | Il nome completo del cliente (nome e cognome per privato, ragione sociale per azienda o agenzia…) | Paolo Rossi                                                  |
+| **## CUSTOMER FULL ##**          | Il nome completo del cliente (nome e cognome per privato, ragione sociale per azienda o agenzia…) | Paolo Rossi             |
 | **## MAIN GUEST ##**             | Nome del cliente principale (quello che ha prenotato)        | Paolo Rossi                                                  |
 | **## ADDITIONAL GUESTS ##**      | Lista dei nomi degli altri clienti                           | Giorgio RossiPaolina Rossi                                   |
 | **## BIRTH PLACE ##**            | Luogo di nascita del cliente principale                      | Bogliate sul Mambro                                          |
 | **## BIRTH DATE ##**             | Data di nascita del cliente principale                       | 01/12/1968                                                   |
 | **## PROPERTY NAME ##**          | Il nome della struttura ricettiva                            | Casa Vacanze Bellavista                                      |
 | **## PROPERTY ADDRESS ##**       | L’indirizzo della struttura ricettiva                        | via del Platano, 25 - Paperopoli                             |
-| **## ACCOMMODATION CATEGORY ##** | La descrizione della risorsa/della camera/dell’appartamento assegnata/o | Bilocale                                                     |
+| **## ACCOMMODATION CATEGORY ##** | La descrizione della risorsa/della camera/dell’appartamento assegnata/o | Bilocal																					 |
 | **## CONTACT WWW ##**            | Il sito web della struttura ricettiva                        | www.bellavista.it                                            |
 | **## CONTACT PHONE ##**          | Il telefono della struttura ricettiva                        | 02 77766644                                                  |
 | **## CONTACT EMAIL ##**          | L’email di contatto della struttura ricettiva                | reception@bellavista.it                                      |
