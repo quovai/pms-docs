@@ -4,12 +4,9 @@
 
 - [Browser preferito](browser-preferito-it.md)
 
-- [Video Tutorial](video-tutorial-it.md)
+- [Video Tutorial](video-tutorial-it) *Spieghiamo in modo chiaro e semplice il funzionamento del PMS Quovai tramite dei video online.*
 
-  *Spieghiamo in modo chiaro e semplice il funzionamento del PMS Quovai tramite dei video online.*
-
-- [Glossario](glossario-it.md)
-  *Raccolta di vocaboli in quanto limitati all'ambiente della struttura ricettiva con una breve spiegazione del significato. Se volete che aggiungiamo altri vocaboli, contattaci.*
+- [Glossario](glossario-it) *Raccolta di vocaboli in quanto limitati all'ambiente della struttura ricettiva con una breve spiegazione del significato. Se volete che aggiungiamo altri vocaboli, contattaci.*
 
 - [FAQ](faq-it.md)
 
