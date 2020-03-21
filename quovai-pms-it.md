@@ -8,8 +8,7 @@
 
 - [Glossario](glossario-it) *Raccolta di vocaboli in quanto limitati all'ambiente della struttura ricettiva con una breve spiegazione del significato. Se volete che aggiungiamo altri vocaboli, contattaci.*
 
-- [FAQ](faq-it.md)
-
+- [FAQ](FAQ-it)
 
 
 ## Primi passi con Quovai PMS
@@ -23,13 +22,12 @@
 - [Bloccare una camera/un appartamento rapidamente](blocco-camera-it.md)
 - [Cambiare un nome sulla scheda cliente](come-cambiare-un-nome-sulla-scheda-cliente-it.md)
 - [Cambiare disponibilità](cambiare-disponibilita-it.md)
-- [Inserire una caparra](come-inserire-una-caparra-it)
-- [Aggiungere la tassa di soggiorno](come-aggiungere-la-tassa-di-soggiorno-it)
-
+- [Inserire una caparra](come-inserire-una-caparra-it.md)
+- [Aggiungere la tassa di soggiorno](come-aggiungere-la-tassa-di-soggiorno-it.md)
 
 ## Listino, prezzi, condizioni, restrizioni, servizi ...
 - [Gestione del listino (e la stampa)](la-gestione-del-listino-it.md)
-- [Copiare i prezzi](copiare-i-prezzi-it.md) 
+- [Copiare i prezzi da una tariffa all'altra](copiare-i-prezzi-it.md) 
 - [Copiare il listino da una stagione all'altra](copiare-il-listino-it.md)
 - [Impostare (o variare) i prezzi](impostare-i-prezzi-it.md)
 - [Modalità di inserimento prezzi massivo](inserimento-prezzi-massivo-it.md)
@@ -58,15 +56,15 @@
 ## Calendario iCal
 - [Calendario iCal - come utilizzarlo](calendario-ical-come-utilizzarlo-it.md)
 
-## Carte di credito e pagamenti
 
-- [Cancellazione e penale: come funziona?](cancellazione-penale-come-funziona-it)
-- [In practica, come funziona l'account Stripe di Quovai?](come-funziona-account-Stripe-Quovai-it)
-- [Come accedere ai dati della carta di credito del cliente](come-accedere-ai-dati-della-carta-di-credito-dal-channel-manager-it)
-- [Come accedere ai dati della carta di credito del cliente dal channel manager](come-accedere-ai-dati-della-carta-di-credito-dal-channel-manager-it)
-- [Aprire un conto STRIPE](aprire-un-conto-stripe-it)
-- [Garanzie e pagamenti](garanzie-e-pagamenti-it)
-- [Richiedete caparre e acconti direttamente dal PMS](richiedete-caparre-acconti-direttamente-da-quovai-it)
+## Carte di credito e pagamenti
+- [Cancellazione e penale: come funziona?](cancellazione-penale-come-funziona-it.md)
+- [In practica, come funziona l'account Stripe di Quovai?](come-funziona-account-Stripe-Quovai-it.md)
+- [Come accedere ai dati della carta di credito del cliente](come-accedere-ai-dati-della-carta-di-credito-dal-channel-manager-it.md)
+- [Come accedere ai dati della carta di credito del cliente dal channel manager](come-accedere-ai-dati-della-carta-di-credito-dal-channel-manager-it.md)
+- [Aprire un conto STRIPE](aprire-un-conto-stripe-it.md)
+- [Garanzie e pagamenti](garanzie-e-pagamenti-it.md)
+- [Richiedete caparre e acconti direttamente dal PMS](richiedete-caparre-acconti-direttamente-da-quovai-it.md)
 
 
 ## Channel Manager
@@ -89,7 +87,7 @@
 - [Lista delle fatture emesse](la-lista-fatture-emesse-it.md)
 - [Archiviare e registrare le fatture](archivio-fatture-it.md)
 - [Copia di cortesia in PDF](la-copia-di-cortesia-it.md)
-- [Salvare una copia di cortesia per le fatture passive](salvare-una-copia-di-cortesia-in-pdf-it)
+- [Salvare una copia di cortesia per le fatture passive](salvare-una-copia-di-cortesia-in-pdf-it.md)
 - [Come utilizzare un'aliquota IVA diversa](come-utilizzare-un-aliquota-iva-diversa-it.md)
 - [Le ricevute a zero per prenotazioni di agenzia](la-ricevuta-a-zero-con-e-senza-documento-precedente-it.md)
 
@@ -97,10 +95,9 @@
 ## GDPR & privacy
 - [Cos'è un dato personale?](cos'è-un-dato-personale-it.md)
 - [Come funziona la privacy con Quovai PMS](come-funziona-la-privacy-con-quovai-pms-it.md)
-
 - [Accordo per il Trattamento dei Dati (ATD)](accettazione-accordo-trattamento-dati-it.md)
-- [Modifica password/nuovi utenti/activity log](Modifica password, nuovi utenti, activity log)
-- [Diversi livelli di accesso - decidete chi può vedere e modificare i dati, i report e i documenti sul PMS](decidete-chi-puo-vedere-e-modificare-dati-it)
+- [Modifica password/nuovi utenti/activity log](Modifica password, nuovi utenti, activity log.md)
+- [Diversi livelli di accesso - decidete chi può vedere e modificare i dati, i report e i documenti sul PMS](decidete-chi-puo-vedere-e-modificare-dati-it.md)
 
 
 ## Gruppi
@@ -112,10 +109,10 @@
 ## L'area log in
 - [Modifica password/nuovi utenti/activity log](area-login-it.md)
 
-## Preventivi
 
-- [Preparare un preventivo](preparare-un-preventivo-it)
-- [Opzioni per preventivi](opzioni-per-preventivi-it)
+## Preventivi
+- [Preparare un preventivo](preparare-un-preventivo-it.md)
+- [Opzioni per preventivi](opzioni-per-preventivi-it.md)
 
 
 ## PS & ISTAT - adempimenti
@@ -133,10 +130,10 @@
 
 ## Template, comunicazioni email ed allegati
 - [I modelli per le comunicazioni della struttura](i-modelli-per-le-comunicazioni-della-struttura-it.md)
-- [Modificare i messaggi email prima dell’invio da Quovai](modificare-i-messaggi-email-prima-dell-invio-da-quovai-it)
-- [Come si modifica il testo e layout - VIDEO Quovai](possibilita-di-modificare-testo-layout-messaggi-video-it)
+- [Modificare i messaggi email prima dell’invio da Quovai](modificare-i-messaggi-email-prima-dell-invio-da-quovai-it.md)
+- [Come si modifica il testo e layout - VIDEO Quovai](possibilita-di-modificare-testo-layout-messaggi-video-it.md)
 - [Possibilità di modificare il testo e il layout dei messaggi](messaggi-miglioramento-it.md)
-- [Editor con tabelle](editor-con-tabelle-it)
+- [Editor con tabelle](editor-con-tabelle-it.md)
 - [Inviare email in automatico da Quovai](inviare-email-in-automatico-dal-pms-it.md)
 - [Gestione degli allegati](gestire-allegati-it.md)
 - [Note aggiuntive - le vostre note di testo](note-aggiuntive-it.md)
