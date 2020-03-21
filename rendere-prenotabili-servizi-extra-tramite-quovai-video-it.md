@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Rendere prenotabili i servizi extra tramite Quovai PMS**
+[Indice](index.html) / **Rendere prenotabili i servizi extra tramite Quovai PMS**
 
 # Rendere prenotabili i servizi extra tramite Quovai PMS
 

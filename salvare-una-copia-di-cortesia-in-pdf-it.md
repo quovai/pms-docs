@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Salvare una copia di cortesia in PDF**
+[Indice](index.html) / **Salvare una copia di cortesia in PDF**
 
 # Salvare una copia di cortesia in PDF
 

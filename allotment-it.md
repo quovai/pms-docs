@@ -1,5 +1,5 @@
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Gestire l'allotment
+[Indice](index.html) / Gestire l'allotment
 
 # Gestire l'allotment
 

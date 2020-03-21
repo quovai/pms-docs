@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Com'è la configurazione fiscale per il RT?**
+[Indice](index.html) / **Com'è la configurazione fiscale per il RT?**
 
 # Com'è la configurazione fiscale per il RT?
 

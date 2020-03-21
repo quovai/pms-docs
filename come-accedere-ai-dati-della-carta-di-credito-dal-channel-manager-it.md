@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Come accedere ai dati della carta di credito del cliente dal channel manager**
+[Indice](index.html) / **Come accedere ai dati della carta di credito del cliente dal channel manager**
 
 # Come accedere ai dati della carta di credito del cliente dal channel manager
 

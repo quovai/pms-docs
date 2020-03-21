@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Creare una fattura elettronica**
+[Indice](index.html) / **Creare una fattura elettronica**
 
 # Creare una fattura elettronica
 

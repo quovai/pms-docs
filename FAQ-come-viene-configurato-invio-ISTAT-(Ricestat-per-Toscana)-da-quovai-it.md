@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Come viene configurato invio ISTAT (Ricestat per Toscana) da Quovai PMS?**
+[Indice](index.html) / **Come viene configurato invio ISTAT (Ricestat per Toscana) da Quovai PMS?**
 
 # Come viene configurato invio ISTAT (Ricestat per Toscana) da Quovai PMS?
 

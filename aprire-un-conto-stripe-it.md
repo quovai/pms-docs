@@ -1,6 +1,6 @@
 
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Aprire un conto STRIPE**
+[Indice](index.html) / **Aprire un conto STRIPE**
 
 # **Aprire un conto STRIPE**
 

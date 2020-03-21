@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Connessione ai portali In-Italia, Hideaways e Siglinde-Fischer**
+[Indice](index.html) / **Connessione ai portali In-Italia, Hideaways e Siglinde-Fischer**
 
 # Connessione ai portali In-Italia, Hideaways e Siglinde-Fischer
 

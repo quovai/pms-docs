@@ -1,4 +1,4 @@
- [Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Editor nuovo**
+ [Indice](index.html) / **Editor nuovo**
 
 ## Editor nuovo!
 

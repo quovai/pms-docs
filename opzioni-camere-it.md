@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Opzioni camere
+[Indice](index.html) / Opzioni camere
 
 # Opzioni camere
 

@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Accedere ai dati della carta di credito 
+[Indice](index.html) / Accedere ai dati della carta di credito 
 
 # Come accedere ai dati della carta di credito del cliente
 

@@ -1,4 +1,4 @@
- [Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Creare un corrispettivo elettronico**
+ [Indice](index.html) / **Creare un corrispettivo elettronico**
 
 #  Creare un corrispettivo elettronico
 

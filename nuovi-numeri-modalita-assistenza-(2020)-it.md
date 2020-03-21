@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Nuovi numeri e modalità di assistenza Quovai (2020)**
+[Indice](index.html) / **Nuovi numeri e modalità di assistenza Quovai (2020)**
 
 # Nuovi numeri e modalità di assistenza Quovai (2020)
 

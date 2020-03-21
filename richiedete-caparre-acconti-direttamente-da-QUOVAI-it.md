@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Richiedete caparre e acconti direttamente da QUOVAI**
+[Indice](index.html) / **Richiedete caparre e acconti direttamente da QUOVAI**
 
 # Richiedete caparre e acconti direttamente da QUOVAI
 

@@ -1,5 +1,5 @@
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Chiudere e aprire delle camere (cambiare disponibilità)
+[Indice](index.html) / Chiudere e aprire delle camere (cambiare disponibilità)
 
 # Chiudere e aprire delle camere (disponibilità)
 

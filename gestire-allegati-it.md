@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Gestire allegati
+[Indice](index.html) / Gestire allegati
 
 ## La gestione degli allegati
 

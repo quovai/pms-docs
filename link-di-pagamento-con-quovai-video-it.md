@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Link di pagamento con QUOVAI (video)**
+[Indice](index.html) / **Link di pagamento con QUOVAI (video)**
 
 # Link di pagamento con QUOVAI (video)
 

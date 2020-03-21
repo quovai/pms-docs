@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Com'è la procedura per Google My Business per Hotels?**
+[Indice](index.html) / **Com'è la procedura per Google My Business per Hotels?**
 
 # Com'è la procedura per Google My Business per Hotels?
 

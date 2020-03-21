@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Vorrei usare il link di pagamento ma su quale banca viene accreditato?**
+[Indice](index.html) / **Vorrei usare il link di pagamento ma su quale banca viene accreditato?**
 
 # Vorrei usare il link di pagamento ma su quale banca viene accreditato?
 

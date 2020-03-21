@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / ***Copia cortesia delle fatture passive in entrata***
+[Indice](index.html) / ***Copia cortesia delle fatture passive in entrata***
 
 # Copia cortesia delle fatture passive 
 

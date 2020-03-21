@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Il nostro blog aziendale**
+[Indice](index.html) / **Il nostro blog aziendale**
 
 # Il nostro blog aziendale 
 

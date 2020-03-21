@@ -1,4 +1,4 @@
- [Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Turismo accessibile**
+ [Indice](index.html) / **Turismo accessibile**
 
 ## Turismo accessibile
 

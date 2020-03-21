@@ -1,6 +1,6 @@
 
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Video Tutorial 
+[Indice](index.html) / Video Tutorial 
 
 # I nostri video tutorial su YouTube
 

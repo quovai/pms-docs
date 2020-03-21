@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Bandierine e pagamenti multipli**
+[Indice](index.html) / **Bandierine e pagamenti multipli**
 
 ## Bandierine e pagamenti multipli 
 

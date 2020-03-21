@@ -1,6 +1,6 @@
 
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Opzioni per preventivi**
+[Indice](index.html) / **Opzioni per preventivi**
 
 ## Opzioni per preventivi
 

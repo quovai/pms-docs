@@ -1,6 +1,6 @@
  
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Preventivi al volo con Quovai PMS**
+[Indice](index.html) / **Preventivi al volo con Quovai PMS**
 
 ## Preventivi al volo con Quovai PMS 
 

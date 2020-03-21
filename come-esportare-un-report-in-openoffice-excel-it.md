@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Come esportare un report in Excel o OpenOffice
+[Indice](index.html) / Come esportare un report in Excel o OpenOffice
 
 
 # Come esportare un report in Excel / OpenOffice

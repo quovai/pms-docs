@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Garanzie e pagamenti
+[Indice](index.html) / Garanzie e pagamenti
 
 # Garanzie e pagamenti
 

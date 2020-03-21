@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Quando trasmetto i corrispettivi giornalieri?**
+[Indice](index.html) / **Quando trasmetto i corrispettivi giornalieri?**
 
 # Quando trasmetto i corrispettivi giornalieri?
 

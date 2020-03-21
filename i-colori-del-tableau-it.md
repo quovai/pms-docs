@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / I colori del tableau
+[Indice](index.html) / I colori del tableau
 
 # I colori del tableau
   

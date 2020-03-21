@@ -1,4 +1,4 @@
- [Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Come modificare il codice ISTAT della propria struttura?
+ [Indice](index.html) / Come modificare il codice ISTAT della propria struttura?
 
 # Come modificare il codice ISTAT della propria struttura?
 

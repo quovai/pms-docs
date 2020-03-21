@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Tariffe: Arrotonda a n. decimali**
+[Indice](index.html) / **Tariffe: Arrotonda a n. decimali**
 
 # Tariffe: Arrotonda a n. decimali
 

@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Il report corrispettivi
+[Indice](index.html) / Il report corrispettivi
 
 
 # Il report corrispettivi

@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Browser preferito
+[Indice](index.html) / Browser preferito
 
 # Browser preferito
 

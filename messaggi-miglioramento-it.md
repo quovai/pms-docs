@@ -1,5 +1,5 @@
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Messaggi email dal PMS
+[Indice](index.html) / Messaggi email dal PMS
 
 # **Abbiamo migliorato i messaggi email dal PMS**
  

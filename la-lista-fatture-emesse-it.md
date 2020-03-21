@@ -1,5 +1,5 @@
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / La lista fatture emesse
+[Indice](index.html) / La lista fatture emesse
 
 # La lista fatture emesse
 

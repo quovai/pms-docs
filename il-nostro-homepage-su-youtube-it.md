@@ -1,6 +1,6 @@
  
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Il nostro home page su YouTube**
+[Indice](index.html) / **Il nostro home page su YouTube**
 
 ## Il nostro home page su YouTube 
 

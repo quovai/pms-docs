@@ -1,6 +1,6 @@
 
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Inserimento prezzi massivo**
+[Indice](index.html) / **Inserimento prezzi massivo**
 
 # **Inserimento prezzi massivo**
 

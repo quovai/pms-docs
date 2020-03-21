@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Nuovo report per le fatture passive/attive e per il download dei documenti**
+[Indice](index.html) / **Nuovo report per le fatture passive/attive e per il download dei documenti**
 
 ## Nuovo report per le fatture passive/attive e per il download dei documenti
 

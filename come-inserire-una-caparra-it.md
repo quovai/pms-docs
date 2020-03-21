@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Come inserire una caparra
+[Indice](index.html) / Come inserire una caparra
 
 # Come inserire una caparra
 

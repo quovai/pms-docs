@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Possibilità di modificare il testo e il layout dei messaggi con QUOVAI (video)**
+[Indice](index.html) / **Possibilità di modificare il testo e il layout dei messaggi con QUOVAI (video)**
 
 # Possibilità di modificare il testo e il layout dei messaggi con QUOVAI (video)
 

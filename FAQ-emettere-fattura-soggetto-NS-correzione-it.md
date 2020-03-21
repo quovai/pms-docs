@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Quando emetto una fattura verso un soggetto estero, ricevo una notifica di scarto. Come si fa per correggere l'anomalia?**
+[Indice](index.html) / **Quando emetto una fattura verso un soggetto estero, ricevo una notifica di scarto. Come si fa per correggere l'anomalia?**
 
 ## Quando emetto una fattura verso un soggetto estero, ricevo una notifica di scarto. Come si fa per correggere l'anomalia?
 

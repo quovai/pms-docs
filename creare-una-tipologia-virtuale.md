@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Creare una tipologia virtuale**
+[Indice](index.html) / **Creare una tipologia virtuale**
 
 # Creare una tipologia virtuale
 

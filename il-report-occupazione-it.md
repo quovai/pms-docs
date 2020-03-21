@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Il report occupazione - Come sto andando quest'anno?
+[Indice](index.html) / Il report occupazione - Come sto andando quest'anno?
 
 
 # Il Report occupazione - Come sto andando quest'anno?

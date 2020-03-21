@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Fatturazione multipla**
+[Indice](index.html) / **Fatturazione multipla**
 
 # Fatturazione multipla
 

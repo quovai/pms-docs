@@ -1,6 +1,6 @@
 
 
-+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Copiare i prezzi
++[Indice](index.html) / Copiare i prezzi
 
 
 # Copiare i prezzi

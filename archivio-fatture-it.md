@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Archiviare e registrare le fatture
+[Indice](index.html) / Archiviare e registrare le fatture
 
 ## Archiviare e registrare le fatture
 

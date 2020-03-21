@@ -1,4 +1,4 @@
-﻿[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Fatturazione elettronica
+﻿[Indice](index.html) / Fatturazione elettronica
 
 # La fatturazione elettronica con Quovai PMS
 

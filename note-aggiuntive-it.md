@@ -1,5 +1,5 @@
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Note aggiuntive
+[Indice](index.html) / Note aggiuntive
 
 # Note aggiuntive - le vostre note di testo
 

@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Il Channel Manager si interfaccia con il portale Atraveo?**
+[Indice](index.html) / **Il Channel Manager si interfaccia con il portale Atraveo?**
 
 # Il Channel Manager si interfaccia con il portale Atraveo?
 

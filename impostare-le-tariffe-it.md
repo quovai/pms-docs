@@ -1,5 +1,5 @@
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Impostare le tariffe
+[Indice](index.html) / Impostare le tariffe
 
 # Impostare le tariffe
  

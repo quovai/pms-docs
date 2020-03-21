@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Modalità di inserimento prezzi**
+[Indice](index.html) / **Modalità di inserimento prezzi**
 
 ## Modalità di inserimento prezzi 
 

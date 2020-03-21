@@ -1,5 +1,5 @@
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / La gestione del listino
+[Indice](index.html) / La gestione del listino
 
 # La gestione del listino (aspetti generali)
 

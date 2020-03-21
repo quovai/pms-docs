@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Inviare email in automatico dal PMS
+[Indice](index.html) / Inviare email in automatico dal PMS
 
 # Inviare email in automatico dal PMS
  

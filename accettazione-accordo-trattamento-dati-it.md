@@ -1,5 +1,5 @@
 
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Accettazione dell'Accordo per il Trattamento dei Dati
+[Indice](index.html) / Accettazione dell'Accordo per il Trattamento dei Dati
 
 # Accettazione dell'Accordo per il Trattamento dei Dati
 

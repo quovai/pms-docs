@@ -1,4 +1,4 @@
-[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Come facciamo ad avere le nostre fatture dal nostro cassetto fiscale all'interno di Quovai?**
+[Indice](index.html) / **Come facciamo ad avere le nostre fatture dal nostro cassetto fiscale all'interno di Quovai?**
 
 # Come facciamo ad avere le nostre fatture dal nostro cassetto fiscale all'interno di Quovai?
 
