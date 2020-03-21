@@ -4,7 +4,7 @@
 
 # I nostri video tutorial su YouTube
 
-****[Canale YouTube](https://www.youtube.com/channel/UCIbRFmrL-sxPil0pUSKbwAw/featured)** 
+**[Canale YouTube](https://www.youtube.com/channel/UCIbRFmrL-sxPil0pUSKbwAw/featured)**
 
  **Argomenti toccati**
  - [Creare un corrispettivo elettronico con Quovai PMS](https://www.youtube.com/watch?v=KOJerNYi0MI&t=5s)
