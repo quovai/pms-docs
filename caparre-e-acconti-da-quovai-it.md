@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Richiedi caparre e acconti (con carta di credito) direttamente da QUOVAI**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Richiedi caparre e acconti (con carta di credito) direttamente da QUOVAI**
 
 # Richiedi caparre e acconti (con carta di credito) direttamente da QUOVAI
 

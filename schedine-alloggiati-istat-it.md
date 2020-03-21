@@ -1,6 +1,6 @@
 
 
- [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Schedine Alloggiati e ISTAT/RICESTAT
+ [Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Schedine Alloggiati e ISTAT/RICESTAT
 
 #  Schedine Alloggiati e ISTAT/RICESTAT
 

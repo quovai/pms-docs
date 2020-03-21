@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Cancellazione e penale: come funziona?**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Cancellazione e penale: come funziona?**
 
 # Cancellazione e penale: come funziona?
 

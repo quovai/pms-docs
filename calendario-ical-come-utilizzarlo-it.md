@@ -1,7 +1,7 @@
 
 
 
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Calendario iCal - come utilizzarlo
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Calendario iCal - come utilizzarlo
 
 # **Calendario iCal - come utilizzarlo**
 

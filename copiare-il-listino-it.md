@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Copiare il listino da una stagione all'altra
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Copiare il listino da una stagione all'altra
 
 # Copiare il listino da una stagione all'altra
 

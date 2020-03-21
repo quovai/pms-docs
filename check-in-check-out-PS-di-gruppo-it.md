@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) /Check-in, check-out e PS di gruppo 
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) /Check-in, check-out e PS di gruppo 
 
 # Check-in, Check-out e PS di Gruppo  
   

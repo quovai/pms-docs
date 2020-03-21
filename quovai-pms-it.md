@@ -1,4 +1,4 @@
-[Indice](index.md) / Quovai PMS
+[Indice](index.html) / Quovai PMS
 
 # Documentazione Quovai PMS
 

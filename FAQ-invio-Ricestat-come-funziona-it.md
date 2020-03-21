@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Invio Ricestat: come funziona?**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Invio Ricestat: come funziona?**
 
 # Invio Ricestat: come funziona?
 

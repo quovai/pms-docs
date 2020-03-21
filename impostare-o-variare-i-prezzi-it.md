@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Impostare o variare i prezzi**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Impostare o variare i prezzi**
 
 ## Impostare o variare i prezzi
 

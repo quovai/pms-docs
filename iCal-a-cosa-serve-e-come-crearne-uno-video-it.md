@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **L'iCal, a cosa serve e come crearne uno con QUOVAI (video)**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **L'iCal, a cosa serve e come crearne uno con QUOVAI (video)**
 
 # L'iCal, a cosa serve e come crearne uno con QUOVAI (video)
 

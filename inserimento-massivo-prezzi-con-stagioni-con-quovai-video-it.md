@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Inserimento massivo dei prezzi con stagioni con Quovai PMS **
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Inserimento massivo dei prezzi con stagioni con Quovai PMS **
 
 # Inserimento massivo dei prezzi con stagioni con Quovai PMS 
 

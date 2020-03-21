@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / La ricevuta a zero, con e senza documento precedente
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / La ricevuta a zero, con e senza documento precedente
 
 # Fare una ricevuta a zero al cliente per prenotazioni prepagate o pagate in seguito dall'agenzia
 

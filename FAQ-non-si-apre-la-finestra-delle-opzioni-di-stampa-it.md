@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Quando vado a stampare una ricevuta fiscale dell'acconto inviatomi da un cliente, non si apre più la finestra delle opzioni di stampa?**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Quando vado a stampare una ricevuta fiscale dell'acconto inviatomi da un cliente, non si apre più la finestra delle opzioni di stampa?**
 
 # Quando vado a stampare una ricevuta fiscale dell'acconto inviatomi da un cliente, non si apre più la finestra delle opzioni di stampa?
 

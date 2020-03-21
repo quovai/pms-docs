@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Come si genera il QR-Code?**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Come si genera il QR-Code?**
 
 # Come si genera il QR-Code?
 

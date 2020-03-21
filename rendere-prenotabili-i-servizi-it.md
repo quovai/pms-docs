@@ -1,6 +1,6 @@
 
 
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Come rendere prenotabili i servizi extra
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Come rendere prenotabili i servizi extra
 
 # Come rendere prenotabili i servizi extra
 

@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Podcasts (in inglese)**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Podcasts (in inglese)**
 
 # Podcasts (in inglese)
 

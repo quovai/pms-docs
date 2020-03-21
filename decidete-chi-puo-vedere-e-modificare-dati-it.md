@@ -1,4 +1,4 @@
- [Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Come si fa un'autofattura?**
+ [Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Come si fa un'autofattura?**
 
 # Decidete chi può vedere e modificare i dati, i report e i documenti  
 

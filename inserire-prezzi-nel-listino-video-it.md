@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Inserire i prezzi nel listino**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Inserire i prezzi nel listino**
 
 # Inserire i prezzi nel listino
 

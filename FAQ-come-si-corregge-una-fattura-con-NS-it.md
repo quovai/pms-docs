@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) /  **Come si corregge una fattura con il codice NS?**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) /  **Come si corregge una fattura con il codice NS?**
 
 # FAQ: Come si corregge una fattura con il codice NS?
 

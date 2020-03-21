@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Creare una nota di credito a storno parziale di un documento
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Creare una nota di credito a storno parziale di un documento
 
 # Creare una nota di credito di credito a storno parziale di un documento 
   

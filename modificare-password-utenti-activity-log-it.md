@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Modificare password, nuovi utenti, activity log
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Modificare password, nuovi utenti, activity log
 
 # Modificare password, nuovi utenti, activity log
 

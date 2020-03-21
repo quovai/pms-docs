@@ -1,6 +1,6 @@
 
 
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Come funziona la privacy con Quovai PMS
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Come funziona la privacy con Quovai PMS
 
 
 # Come funziona la privacy con Quovai PMS

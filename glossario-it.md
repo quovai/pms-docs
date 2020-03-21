@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Glossario
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Glossario
 
 # Glossario  
 **Acconto** **e caparra confirmatoria**: Incasso anticipato su una servizio da erogare nel futuro. Non impegna il cliente (andrà restituito se le condizioni di cancellazione lo consentono) e non impegna la struttura. Al ricevimento dell’acconto, sia esso in contanti, bonifico o carta di credito, la struttura deve emettere un documento (fattura o ricevuta). 

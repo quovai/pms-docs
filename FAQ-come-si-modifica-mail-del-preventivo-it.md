@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Come si modifica la mail del preventivo?**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Come si modifica la mail del preventivo?**
 
 # Come si modifica la mail del preventivo?
 

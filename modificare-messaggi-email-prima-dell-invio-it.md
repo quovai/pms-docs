@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Modificare i messaggi email prima dell’invio da QUOVAI**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Modificare i messaggi email prima dell’invio da QUOVAI**
 
 # Modificare i messaggi email prima dell’invio da QUOVAI
 

@@ -1,6 +1,6 @@
 
 
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **PSD2 e SCA - adempimenti**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **PSD2 e SCA - adempimenti**
 
 # **PSD2 e SCA - adempimenti**
 

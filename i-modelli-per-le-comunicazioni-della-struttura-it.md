@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / I modelli per le comunicazioni della struttura
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / I modelli per le comunicazioni della struttura
 
 
 # I modelli per le comunicazioni della struttura

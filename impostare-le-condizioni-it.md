@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Impostare le condizioni
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Impostare le condizioni
 
 # Impostare le condizioni
  

@@ -1,5 +1,5 @@
 
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Apertura e chiusura veloce di un'intero periodo della struttura  
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Apertura e chiusura veloce di un'intero periodo della struttura  
 
 # Apertura e chiusura veloce di un'intero periodo della struttura
   

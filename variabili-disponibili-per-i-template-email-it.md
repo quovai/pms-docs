@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Variabili disponibili per i template email**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Variabili disponibili per i template email**
 
 # Variabili disponibili per i template email
 

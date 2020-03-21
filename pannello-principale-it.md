@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / La dashboard principale
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / La dashboard principale
 
 # La dashboard (o il pannello) principale
 

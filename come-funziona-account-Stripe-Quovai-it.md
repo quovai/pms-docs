@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **In practica, come funziona l'account Stripe di Quovai?**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **In practica, come funziona l'account Stripe di Quovai?**
 
 # In practica, come funziona l'account Stripe di Quovai?
 

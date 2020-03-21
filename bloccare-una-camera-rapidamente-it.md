@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / **Bloccare una camera rapidamente**
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / **Bloccare una camera rapidamente**
 
 # Bloccare una camera rapidamente
 

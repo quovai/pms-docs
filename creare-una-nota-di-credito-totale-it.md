@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Nota di credito a storno totale di un documento
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Nota di credito a storno totale di un documento
 
 # **Nota di credito a storno totale di un documento**
 

@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Camere comunicanti
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Camere comunicanti
 
 # **Camere comunicanti**
 

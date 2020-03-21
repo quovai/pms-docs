@@ -1,6 +1,6 @@
 
 
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Impostare le restrizioni
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Impostare le restrizioni
 
 # Impostare o variare le restrizioni
  

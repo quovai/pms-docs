@@ -1,4 +1,4 @@
-[Indice](index.md) / [Quovai PMS](quovai-pms-it.md) / Le novità introdotte con la fattura elettronica
+[Indice](index.html) / [Quovai PMS](quovai-pms-it.md) / Le novità introdotte con la fattura elettronica
 
 # Le novità introdotte con la fattura elettronica
 
