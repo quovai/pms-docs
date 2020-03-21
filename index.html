@@ -167,14 +167,24 @@
 		display: inline-block;
 	}
 	
-	.col-50{
+	.col-50 {
 			width: 49%;   // 1/2 of the grid (100% / 2 = 50%);
+			display: inline-block;
+			float: left;
+	}
+	
+	.col-100 {
+			width: 99%;   // 1/2 of the grid (100% / 2 = 50%);
 			display: inline-block;
 			float: left;
 	}
 	
 	.row-full {
 			width: 100%;
+	}
+	
+	.main-content {
+		max-width: auto;
 	}
 	
   </style>
@@ -193,26 +203,30 @@
   <input id="sr_searchbutton" type="submit" value="Cerca" /><br />
 </form>
 	    
-      <p><a href="/">Indice</a> / Quovai PMS</p>
-
-<h1 id="documentazione-quovai-pms">Documentazione Quovai PMS</h1>
-
-<ul>
-  <li>
-    <p><a href="/browser-preferito-it.html">Browser preferito</a></p>
-  </li>
-  <li>
-    <p><a href="video-tutorial-it">Video Tutorial</a> <em>Spieghiamo in modo chiaro e semplice il funzionamento del PMS Quovai tramite dei video online.</em></p>
-  </li>
-  <li>
-    <p><a href="glossario-it">Glossario</a> <em>Raccolta di vocaboli in quanto limitati all’ambiente della struttura ricettiva con una breve spiegazione del significato. Se volete che aggiungiamo altri vocaboli, contattaci.</em></p>
-  </li>
-  <li>
-    <p><a href="FAQ-it">FAQ</a></p>
-  </li>
-</ul>
-
+    <p><a href="/">Indice</a> / Quovai PMS</p>
+		
+		
 <div class="grid">
+	<div class="row-full">
+		<div class="col-100">
+			<h1 id="documentazione-quovai-pms">Documentazione Quovai PMS</h1>
+			<ul>
+				<li>
+					<p><a href="/browser-preferito-it.html">Browser preferito</a></p>
+				</li>
+				<li>
+					<p><a href="video-tutorial-it">Video Tutorial</a> <em>Spieghiamo in modo chiaro e semplice il funzionamento del PMS Quovai tramite dei video online.</em></p>
+				</li>
+				<li>
+					<p><a href="glossario-it">Glossario</a> <em>Raccolta di vocaboli in quanto limitati all’ambiente della struttura ricettiva con una breve spiegazione del significato. Se volete che aggiungiamo altri vocaboli, contattaci.</em></p>
+				</li>
+				<li>
+					<p><a href="FAQ-it">FAQ</a></p>
+				</li>
+			</ul>
+		</div>
+	</div>
+
 	<div class="row-full">
 		<div class="col-50">
 			<h2 id="primi-passi-con-quovai-pms">Primi passi con Quovai PMS</h2>
